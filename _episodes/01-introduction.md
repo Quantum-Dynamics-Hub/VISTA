@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Seminar 1"
 teaching: 0
 exercises: 0
 questions:

@@ -44,6 +44,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
  
 ## Executive Committee 
 
+* **Agostini, Federica**   University Paris-Saclay, France
 * **Akimov, Alexey**       University at Buffalo, SUNY, USA
 * **Barbatti, Mario**      Aix-Marseille University, Frace
 * **Dupuis, Michel**       University at Buffalo, SUNY, USA

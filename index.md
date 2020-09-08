@@ -28,7 +28,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
  trajectory-based and surface hopping approaches, semiclassical and quantum-classical methodologies, new software and tools
  for nonadiabatic and quantum dynamics, as well as the applications of these cutting-edge techniques to a variety of 
  complex systems and materials, such as solar energy harvesting and photoresponsive materials. The experimental works that require 
- attention of and can benefit from theoretical investigations are also of interest. 
+ the attention of and can benefit from theoretical investigations are also of interest. 
 
 ### **Keywords and topics:**
 - nonadiabatic dynamics
@@ -41,6 +41,11 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 - TD-DFT
 - algorithms, methods, and software for excited state, nonadiabatic, and quantum dynamics
 
+## Upcoming Seminars
+
+### **September 10, 2020, 9:30 - 11:00 am EDT / 1:30 - 3:00 pm GMT**
+
+<embed src="assets/abstracts/Flyer_seminar1.pdf" width="900" height="975"  type='application/pdf'>
  
 ## Executive Committee 
 

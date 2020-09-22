@@ -41,17 +41,21 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 - TD-DFT
 - algorithms, methods, and software for excited state, nonadiabatic, and quantum dynamics
 
+### <a href="https://forms.gle/n5gT4Np7TkiSCm3P8" target="_blank" rel="nofollow">**The abstract submission is now open**</a>
+
 ## Upcoming Seminars
 
-### **September 10, 2020, 9:30 - 11:00 am EDT / 1:30 - 3:00 pm GMT**
+### **September 24, 2020, 10:00 - 11:30 am EDT / 2:00 - 3:30 pm GMT**
 
-<embed src="assets/abstracts/Flyer_seminar1.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar2.pdf" width="900" height="975"  type='application/pdf'>
  
 ## Executive Committee 
 
 * **Agostini, Federica**   University Paris-Saclay, France
 * **Akimov, Alexey**       University at Buffalo, SUNY, USA
 * **Barbatti, Mario**      Aix-Marseille University, Frace
+* **Blumberger, Jochen**   University College London, UK
+* **Curchod, Basile**      Durham University, UK
 * **Dupuis, Michel**       University at Buffalo, SUNY, USA
 * **Jain, Amber**          Indian Institute of Technology, Bombay, India
 * **Levine, Ben**          Stony Brook University, SUNY, USA

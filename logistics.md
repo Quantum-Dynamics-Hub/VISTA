@@ -5,7 +5,7 @@ title: Event Details
 ## **Abstract Submission**
 
 If you would like to give a presentation, please apply here: 
-<a href="" target="_blank" rel="nofollow">**Registration form**</a>
+<a href="https://forms.gle/n5gT4Np7TkiSCm3P8" target="_blank" rel="nofollow">**Registration form**</a>
 
 
 
@@ -16,8 +16,9 @@ If you would like to give a presentation, please apply here:
 - slides are made available
 - work-in-progress is acceptable
 - 2 presenters per session:
-  - Senior (postdoc, researcher, faculty): 40 min + 10 for Q&A
-  - Junior (undergraduate, graduate): 20 min + 10 for Q&A
+  - Senior (postdoc, researcher, faculty): 30 min
+  - Junior (undergraduate, graduate): 15 min 
+- Q & A session after both talk to both presenters
 - invited and contributed talks
 
 

@@ -45,9 +45,9 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **September 24, 2020, 10:00 - 11:30 am EDT / 2:00 - 3:30 pm GMT**
+### **October 8, 2020, 9:30 - 11:00 am EDT / 1:30 - 3:00 pm GMT**
 
-<embed src="assets/abstracts/Flyer_seminar2.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar3.pdf" width="900" height="975"  type='application/pdf'>
  
 ## Executive Committee 
 

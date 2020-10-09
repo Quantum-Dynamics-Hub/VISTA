@@ -59,6 +59,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 * **Dupuis, Michel**       University at Buffalo, SUNY, USA
 * **Jain, Amber**          Indian Institute of Technology, Bombay, India
 * **Levine, Ben**          Stony Brook University, SUNY, USA
+* **Gonzalez, Lecitica**   University of Vienna, Austria
 * **Kilin, Dmitri**        North Dakota State University, USA
 * **Long, Run**            Beijing Normal University, China
 * **Prezhdo, Oleg**        University of Southern California, USA

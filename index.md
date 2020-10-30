@@ -45,9 +45,32 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **October 22, 2020, 9:30 - 11:00 am EDT / 1:30 - 3:00 pm GMT**
+### **November 5, 2020, 9:30 - 11:00 am EDT / 1:30 - 3:00 pm GMT / 2:30 - 4:00 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar4.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar5.pdf" width="900" height="975"  type='application/pdf'>
+
+
+### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
+
+* November 5, 2020
+* November 19, 2020
+* December 3, 2020
+* December 17, 2020
+* December 31, 2020 (just kidding, no seminar on that day)
+* January 7, 2021 (note a 1 week difference, instead of usual 2)
+* January 21, 2021
+* February 4, 2021
+* February 18, 2021
+* March 4, 2021
+* March 18, 2021
+* April 1, 2021
+* April 15, 2021
+* April 29, 2021
+* May 13, 2021
+* May 27, 2021
+* we will continue further, but the schedule is yet to be made
+
+
  
 ## Executive Committee 
 
@@ -58,6 +81,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 * **Curchod, Basile**      Durham University, UK
 * **Dupuis, Michel**       University at Buffalo, SUNY, USA
 * **Jain, Amber**          Indian Institute of Technology, Bombay, India
+* **Jakowski, Jacek**      Oak Ridge National Laboratory, USA
 * **Levine, Ben**          Stony Brook University, SUNY, USA
 * **Gonzalez, Lecitica**   University of Vienna, Austria
 * **Kilin, Dmitri**        North Dakota State University, USA

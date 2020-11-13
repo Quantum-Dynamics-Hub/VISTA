@@ -45,9 +45,9 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **November 5, 2020, 9:30 - 11:00 am EDT / 1:30 - 3:00 pm GMT / 2:30 - 4:00 pm (Paris)**
+### **November 19, 2020, 9:30 - 11:00 am EDT / 2:30 - 4:00 pm GMT / 3:30 - 5:00 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar5.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar6.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)

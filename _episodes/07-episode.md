@@ -5,7 +5,7 @@ abstract: ../assets/abstracts/Flyer_seminar7.pdf
 presenter1: Dmitri Kilin, North Dakota State University, USA
 presentation1: ../assets/presentations/seminar7/DmitriKilin.pdf
 presenter2: Franceso Talotta, Universite Paris-Saclay, France
-presentation2: ../assets/presentations/seminar7/FrancesoTalotta.pdf
+presentation2: ../assets/presentations/seminar7/FrancescoTalotta.pdf
 ---
 
 <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=fbc10b46-f15b-47db-9e1b-ac8601167c57

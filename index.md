@@ -52,7 +52,6 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
-* December 17, 2020
 * December 31, 2020 (just kidding, no seminar on that day)
 * January 7, 2021 (note a 1 week difference, instead of usual 2)
 * January 21, 2021

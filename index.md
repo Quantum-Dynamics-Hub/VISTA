@@ -74,6 +74,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 * **Blumberger, Jochen**   University College London, UK
 * **Curchod, Basile**      Durham University, UK
 * **Dupuis, Michel**       University at Buffalo, SUNY, USA
+* **Goldfield, Evelyn**    Wayne State University, USA
 * **Jain, Amber**          Indian Institute of Technology, Bombay, India
 * **Jakowski, Jacek**      Oak Ridge National Laboratory, USA
 * **Levine, Ben**          Stony Brook University, SUNY, USA

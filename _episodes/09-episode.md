@@ -1,7 +1,7 @@
 ---
 title: "Seminar 9: Eberhard (Hardy) K.U. Gross (The Hebrew University of Jerusalem, Israel) and Fabris Kossoski (Aix-Marseille University and Universite Paul Sabatier, France)"
 date: January 07, 2021, 9:30 - 11:00 am EST / 2:30 - 4:00 pm GMT
-abstract: ../assets/abstracts/Flyer_seminar8.pdf
+abstract: ../assets/abstracts/Flyer_seminar9.pdf
 presenter1: Hardy K. U. Gross, The Hebrew University of Jerusalem, Israel
 presentation1: ../assets/presentations/seminar9/HardyGross.pdf
 presenter2: Fabris Kossoski, Aix-Marseille University and Universite Paul Sabatier, France

@@ -4,8 +4,10 @@ date: January 21, 2021, 9:30 - 11:00 am EST / 2:30 - 4:00 pm GMT
 abstract: ../assets/abstracts/Flyer_seminar10.pdf
 presenter1: Ivan Infante, Istituto Italiano di Tecnologia, Italy
 presentation1: ../assets/presentations/seminar10/IvanInfante.pdf
-presenter2: Jonathan R. Mannouch, ETH Zurich, Switzerland
+presenter2: Jonathan R. Mannouch, ETH Zurich, Switzerland pdf
 presentation2: ../assets/presentations/seminar10/JonathanMannouch.pdf
+presenter3: Jonathan R. Mannouch, ETH Zurich, Switzerland movie
+presentation3: ../assets/presentations/seminar10/JonathanMannouch_movie.mov
 
 ---
 

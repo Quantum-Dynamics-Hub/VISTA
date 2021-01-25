@@ -6,8 +6,7 @@ presenter1: Ivan Infante, Istituto Italiano di Tecnologia, Italy
 presentation1: ../assets/presentations/seminar10/IvanInfante.pdf
 presenter2: Jonathan R. Mannouch, ETH Zurich, Switzerland pdf
 presentation2: ../assets/presentations/seminar10/JonathanMannouch.pdf
-presenter3: Jonathan R. Mannouch, ETH Zurich, Switzerland movie
-presentation3: ../assets/presentations/seminar10/JonathanMannouch_movie.mov
+presentation2_extra: ../assets/presentations/seminar10/JonathanMannouch_movie.mov
 
 ---
 

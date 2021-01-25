@@ -9,8 +9,15 @@
       <strong>Date:</strong> {{ page.date }}  <a href="{{ page.abstract }}">Abstract</a>
       <br/>
       <strong>Presenter 1:</strong> {{ page.presenter1 }}  <a href="{{ page.presentation1 }}">[PDF]</a>
+      {% if page.presentation1_extra %}
+      &nbsp<a href="{{ page.presentation1_extra }}">[extra]</a>
+      {% endif %}
       <br/>
       <strong>Presenter 2:</strong> {{ page.presenter2 }}  <a href="{{ page.presentation2 }}">[PDF]</a>
+      <br/>
+      {% if page.presentation2_extra %}
+      &nbsp<a href="{{ page.presentation2_extra }}">[extra]</a>
+      {% endif %}
       <br/>
     </div>
   </div>

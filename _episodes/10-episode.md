@@ -5,7 +5,10 @@ abstract: ../assets/abstracts/Flyer_seminar10.pdf
 presenter1: Ivan Infante, Istituto Italiano di Tecnologia, Italy
 presentation1: ../assets/presentations/seminar10/IvanInfante.pdf
 presenter2: Jonathan R. Mannouch, ETH Zurich, Switzerland
-presentation2: ../assets/presentations/seminar10/JonathanMannouch.pdf  ../assets/presentations/seminar10/JonathanMannouch_movie.mov
+presentation2: ../assets/presentations/seminar10/JonathanMannouch.pdf
+presenter3: Jonathan R. Mannouch, ETH Zurich, Switzerland
+presentation2: ../assets/presentations/seminar10/JonathanMannouch_movie.mov
+
 ---
 
 <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=6afd4742-9db1-4417-93e5-acb7010cc074

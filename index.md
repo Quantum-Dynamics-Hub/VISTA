@@ -45,23 +45,22 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **January 21, 2021, 9:30 - 11:00 am EDT / 2:30 - 4:00 pm GMT / 3:30 - 5:00 pm (Paris)**
+### **February 3, 2021, 9:30 - 11:00 am EDT / 2:30 - 4:00 pm GMT / 3:30 - 5:00 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar10.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar11.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
-* January 21, 2021
-* February 4, 2021
-* February 18, 2021
-* March 4, 2021
-* March 18, 2021
-* April 1, 2021
-* April 15, 2021
-* April 29, 2021
-* May 13, 2021
-* May 27, 2021
+* February 3, 2021
+* February 17, 2021
+* March 3, 2021
+* March 17, 2021
+* March 31, 2021
+* April 14, 2021
+* April 28, 2021
+* May 12, 2021
+* May 26, 2021
 * we will continue further, but the schedule is yet to be made
 
 

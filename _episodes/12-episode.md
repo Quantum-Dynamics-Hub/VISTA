@@ -9,6 +9,7 @@ presentation2: ../assets/presentations/seminar12/RiccardoConte.pdf
 
 ---
 
+
 <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=00eecf69-e6d1-4a51-a27f-acd2011e2afd
 &autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="900" width="800"
  style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>

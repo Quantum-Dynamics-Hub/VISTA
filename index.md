@@ -47,12 +47,11 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ### **March 17, 2021, 9:30 - 11:00 am EDT / 1:30 - 3:00 pm GMT / 2:30 - 4:00 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar13.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar14.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
-* March 17, 2021
 * March 31, 2021
 * April 14, 2021
 * April 28, 2021

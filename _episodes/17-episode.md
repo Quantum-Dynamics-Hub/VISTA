@@ -4,7 +4,7 @@ date: April 28, 2021, 9:30 - 11:00 am EST / 1:30 - 3:00 pm GMT
 abstract: ../assets/abstracts/Flyer_seminar17.pdf
 presenter1: Mark Tuckerman, New York University, USA
 presentation1: ../assets/presentations/seminar17/MarkTuckerman.pdf
-presentation2_extra: ../assets/presentations/seminar17/MarkTuckerman.ppt
+presentation1_extra: ../assets/presentations/seminar17/MarkTuckerman.ppt
 presenter2: Weibin Chu, University of Southern California, USA
 presentation2: ../assets/presentations/seminar17/WeibinChu.pdf
 

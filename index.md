@@ -45,9 +45,9 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **August 18, 2021, 9:30 - 11:30 am EDT / 1:30 - 3:30 pm GMT / 3:30 - 5:30 pm (Paris)**
+### **September 16, 2021, 10:00 - 11:30 am EDT / 2:00 - 3:30 pm GMT / 4:00 - 5:30 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar22.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar23.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)

@@ -52,9 +52,9 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
-All seminars are at **10 am - 12:00 pm EDT  
+All seminars are at **10 am - 11:30 am EDT  
 
-* Sep. 16, 2021
+* Sep. 16, 2021 
 * Sep. 30, 2021
 * Oct. 14, 2021
 * Oct. 28, 2021

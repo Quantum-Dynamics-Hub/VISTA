@@ -54,7 +54,6 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 All seminars are at **10 am - 11:30 am EDT  
 
-* Oct. 14, 2021   Jin Zhao and Jiajun Ren
 * Oct. 28, 2021   Michele Ceotto and Saikat Mukherjee
 * Nov. 11, 2021   Neepa Maitra and TBD
 * Nov. 25, 2021   Raphael Ribiero and TBD

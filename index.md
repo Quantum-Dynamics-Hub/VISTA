@@ -47,7 +47,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ### **October 14, 2021, 10:00 - 11:30 am EDT / 2:00 - 3:30 pm GMT / 4:00 - 5:30 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar25.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar26.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
@@ -55,8 +55,8 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 All seminars are at **10 am - 11:30 am EDT  
 
 * Oct. 28, 2021   Michele Ceotto and Saikat Mukherjee
-* Nov. 11, 2021   Neepa Maitra and TBD
-* Nov. 25, 2021   Raphael Ribiero and TBD
+* Nov. 11, 2021   Neepa Maitra and Yorick Lassmann
+* Nov. 25, 2021   Raphael Ribiero and Davide Avagliano
 * Dec.  9, 2021   Dmitry Shalashilin and Lipeng Chen
 
 

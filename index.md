@@ -45,7 +45,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **November 11, 2021, 10:00 - 11:30 am EDT / 2:00 - 3:30 pm GMT / 4:00 - 5:30 pm (Paris)**
+### **November 25, 2021, 10:00 - 11:30 am EDT / 3:00 - 4:30 pm GMT / 4:00 - 5:30 pm (Paris)**
 
 <embed src="assets/abstracts/Flyer_seminar28.pdf" width="900" height="975"  type='application/pdf'>
 

@@ -4,7 +4,6 @@ date: November 11, 2021, 10:00 - 11:30 am EST / 2:00 - 3:30 pm GMT
 abstract: ../assets/abstracts/Flyer_seminar27.pdf
 presenter1: Neepa Maitra, Rutgers University
 presentation1: ../assets/presentations/seminar27/NeepaMaitra.pdf
-presentation1_extra: ../assets/presentations/seminar27/NeepaMaitra.pptx
 presenter2: Yorick Lassmann, Durham University
 presentation2: ../assets/presentations/seminar27/YorickLassmann.pdf
 

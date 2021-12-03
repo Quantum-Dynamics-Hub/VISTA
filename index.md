@@ -45,16 +45,15 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **November 25, 2021, 10:00 - 11:30 am EDT / 3:00 - 4:30 pm GMT / 4:00 - 5:30 pm (Paris)**
+### **December 9, 2021, 10:00 - 11:30 am EDT / 3:00 - 4:30 pm GMT / 4:00 - 5:30 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar28.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar29.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT  
 
-* Nov. 25, 2021   Raphael Ribiero and Davide Avagliano
 * Dec.  9, 2021   Dmitry Shalashilin and Lipeng Chen
 
 

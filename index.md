@@ -54,7 +54,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 All seminars are at **10 am - 11:30 am EDT  
 
-* Dec.  9, 2021   Dmitry Shalashilin and Lipeng Chen
+* TBD
 
 
  

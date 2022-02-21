@@ -54,9 +54,8 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 All seminars are at **10 am - 11:30 am EST  
 
-* February 16, 2022  Oliver Kuhn and Carlos Medrano
-* March 2, 2022
-* March 16, 2022
+* March 2, 2022   - Mario Barbatti and Eduarda Sangiogo (Giovanni Granucci group)
+* March 16, 2022  - Svetlana Kilina and Jessica Bowles (Federica Agostini group)
 * March 30, 2022
 * April 13, 2022
 * April 27, 2022

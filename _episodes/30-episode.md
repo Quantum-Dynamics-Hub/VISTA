@@ -4,6 +4,7 @@ date: February 2, 2022, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT
 abstract: ../assets/abstracts/Flyer_seminar30.pdf
 presenter1: Vladimir Mandelshtam, University of California, Irvine, US
 presentation1: ../assets/presentations/seminar30/VladimirMandelshtam.pdf
+presentation1_extra: ../assets/presentations/seminar30/VladimirMandelshtam.pptx
 presenter2: Diptesh Dey, University College London, UK
 presentation2: ../assets/presentations/seminar30/DipteshDey.pdf
 

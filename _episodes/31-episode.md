@@ -7,7 +7,6 @@ presentation1: ../assets/presentations/seminar31/OliverKuhn.pdf
 presenter2: Carlos Medrano, Universitat Bremen, Germany
 presentation2: ../assets/presentations/seminar31/CarlosMedrano.pdf
 
-
 ---
 
 <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=4c571102-07d9-4015-a89d-ae3e01161634

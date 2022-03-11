@@ -45,14 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **March 2, 2022, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30 pm (Paris)**
+### **March 16, 2022, 10:00 - 11:30 am EDT / 2:00 - 3:30 pm GMT / 3:00 - 4:30 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar32.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar33.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
-All seminars are at **10 am - 11:30 am EST  
+All seminars are at **10 am - 11:30 am EDT  
 
 * March 16, 2022  - Svetlana Kilina and Jessica Bowles (Carine Clavaguera group)
 * March 30, 2022

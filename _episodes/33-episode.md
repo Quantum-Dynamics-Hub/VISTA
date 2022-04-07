@@ -1,6 +1,6 @@
 ---
 title: "Seminar 33: Svetlana Kilina (North Dakota State University, US) and Jessica Bowles (Universite Paris-Saclay, France)"
-date: March 16, 2021, 10:00 - 11:30 am EST / 2:00 - 3:30 pm GMT
+date: March 16, 2022, 10:00 - 11:30 am EST / 2:00 - 3:30 pm GMT
 abstract: ../assets/abstracts/Flyer_seminar33.pdf
 presenter1: Svetlana Kilina, North Dakota State University, US
 presentation1: ../assets/presentations/seminar33/SvetlanaKilina.pdf

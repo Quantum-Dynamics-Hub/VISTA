@@ -45,20 +45,19 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **March 30, 2022, 10:00 - 11:30 am EDT / 2:00 - 3:30 pm GMT / 3:00 - 4:30 BST / 4:00 - 5:30 pm (Paris)**
+### **April 13, 2022, 10:00 - 11:30 am EDT / 3:00 - 4:30 BST / 4:00 - 5:30 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar34.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar35.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT  
 
-* March 30, 2022 - Haibo Ma and Johann Mattiat
-* April 13, 2022
-* April 27, 2022
-* May 11, 2022
-* May 25, 2022
+* April 13, 2022 - Zhenggang Lan and Yu-Chen Wang
+* April 27, 2022 - TBD
+* May 11, 2022 - TBD
+* May 25, 2022 - TBD
 
 
  

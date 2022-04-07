@@ -1,6 +1,6 @@
 ---
 title: "Seminar 31: Oliver Kuhn (University of Rostock, Germany) and Carlos Medrano (Universitat Bremen, Germany)"
-date: February 16, 2021, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT
+date: February 16, 2022, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT
 abstract: ../assets/abstracts/Flyer_seminar31.pdf
 presenter1: Oliver Kuhn, University of Rostock, Germany
 presentation1: ../assets/presentations/seminar31/OliverKuhn.pdf

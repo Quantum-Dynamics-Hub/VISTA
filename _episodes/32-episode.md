@@ -1,6 +1,6 @@
 ---
 title: "Seminar 32: Mario Barbatti (Aix-Marseille University, France) and Eduarda Sangiogo Gil (University of Pisa, Italy)"
-date: March 2, 2021, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT
+date: March 2, 2022, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT
 abstract: ../assets/abstracts/Flyer_seminar32.pdf
 presenter1: Mario Barbatti, Aix-Marseille University, France
 presentation1: ../assets/presentations/seminar32/MarioBarbatti.pdf

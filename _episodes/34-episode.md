@@ -4,7 +4,7 @@ date: March 30, 2022, 10:00 - 11:30 am EST / 2:00 - 3:30 pm GMT / 3:00 - 4:30 BS
 abstract: ../assets/abstracts/Flyer_seminar34.pdf
 presenter1: Haibo Ma, Nanjing University, China
 presentation1: ../assets/presentations/seminar34/HaiboMa.pdf
-presenter2: Johann Mattiat (University of Zurich, Switzerland
+presenter2: Johann Mattiat, University of Zurich, Switzerland
 presentation2: ../assets/presentations/seminar34/JohannMattiat.pdf
 
 ---

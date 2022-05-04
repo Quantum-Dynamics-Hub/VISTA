@@ -45,18 +45,17 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **April 27, 2022, 10:00 - 11:30 am EDT / 3:00 - 4:30 BST / 4:00 - 5:30 pm (Paris)**
+### **May 11, 2022, 10:00 - 11:30 am EDT / 3:00 - 4:30 BST / 4:00 - 5:30 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar36.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar37.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT  
 
-* April 27, 2022 - Federica Agostini and Saad Yalouz
-* May 11, 2022 - TBD
-* May 25, 2022 - TBD
+* May 11, 2022 - Seung Kyu Min and Lucien Dupuy
+* May 25, 2022 - Graham Worth and TBD
 
 
  

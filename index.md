@@ -45,16 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **May 25, 2022, 10:00 - 11:30 am EDT / 3:00 - 4:30 BST / 4:00 - 5:30 pm (Paris)**
+### **June 22, 2022, 10:00 - 11:30 am EDT / 3:00 - 4:30 BST / 4:00 - 5:30 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar38.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar39.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT  
-
-* May 25, 2022 - Graham Worth and Thierry Tran
 
 
  

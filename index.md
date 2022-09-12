@@ -45,7 +45,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **August 17, 2022, 10:00 - 11:30 am EDT / 3:00 - 4:30 BST / 4:00 - 5:30 pm (Paris)**
+### **October 5, 2022, 10:00 - 11:30 am EDT / 3:00 - 4:30 BST / 4:00 - 5:30 pm (Paris)**
 
 <embed src="assets/abstracts/Flyer_seminar41.pdf" width="900" height="975"  type='application/pdf'>
 
@@ -54,31 +54,42 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 All seminars are at **10 am - 11:30 am EDT  
 
-
+Oct.  5, 2022
+Oct. 19, 2022
+Nov.  2, 2022
+Nov. 16, 2022
+Nov. 30, 2022
+Dec. 14, 2022
+Dec. 21, 2022
  
-## Executive Committee 
+
+## Current Executive Committee Members
 
 * **Agostini, Federica**   University Paris-Saclay, France
 * **Akimov, Alexey**       University at Buffalo, SUNY, USA
 * **Barbatti, Mario**      Aix-Marseille University, Frace
-* **Blumberger, Jochen**   University College London, UK
 * **Curchod, Basile**      Durham University, UK
+* **Jakowski, Jacek**      Oak Ridge National Laboratory, USA
+* **Levine, Ben**          Stony Brook University, SUNY, USA
+* **Long, Run**            Beijing Normal University, China
+* **Rego, Luis**           Universidade Federal de Santa Catarina, Brazil
+* **Sun, Xiang**           New York University Shanghai, China
+* **Tretiak, Sergei**      Los Alamos National Laboratory, USA
+* **Wang, Linjun**         Zhejiang University, China
+
+
+## Former Executive Committee Members
+
+* **Blumberger, Jochen**   University College London, UK
 * **Dupuis, Michel**       University at Buffalo, SUNY, USA
 * **Goldfield, Evelyn**    Wayne State University, USA
 * **Jain, Amber**          Indian Institute of Technology, Bombay, India
-* **Jakowski, Jacek**      Oak Ridge National Laboratory, USA
-* **Levine, Ben**          Stony Brook University, SUNY, USA
 * **Gonzalez, Leticia**    University of Vienna, Austria
 * **Kilin, Dmitri**        North Dakota State University, USA
-* **Long, Run**            Beijing Normal University, China
 * **Prezhdo, Oleg**        University of Southern California, USA
-* **Rego, Luis**           Universidade Federal de Santa Catarina, Brazil
 * **Sanyal, Biplab**       Upsala University, Sweden
-* **Sun, Xiang**           New York University Shanghai, China
-* **Tretiak, Sergei**      Los Alamos National Laboratory, USA
-* **Wang, Linjun**         Zhejiang University
 * **Zhao, Jin**            University of Science and Technology of China, China
-* **Zhugayevych, Andriy**  Skolkovo Institute of Technology, Russia 
+* **Zhugayevych, Andriy**  Skolkovo Institute of Technology, Russia
 
 
 

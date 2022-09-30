@@ -47,17 +47,17 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ### **October 5, 2022, 10:00 - 11:30 am EDT / 3:00 - 4:30 BST / 4:00 - 5:30 pm (Paris)**
 
-<embed src="assets/abstracts/Flyer_seminar41.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar42.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT  
 
-Oct.  5, 2022
+Oct.  5, 2022 - Michele Pavanello
 Oct. 19, 2022
-Nov.  2, 2022
-Nov. 16, 2022
+Nov.  2, 2022 - Andriy Zhugaevich
+Nov. 16, 2022 - Aleksey Kuznetsov
 Nov. 30, 2022
 Dec. 14, 2022
 Dec. 21, 2022

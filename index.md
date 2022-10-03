@@ -54,13 +54,13 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 All seminars are at **10 am - 11:30 am EDT  
 
-Oct.  5, 2022 - Michele Pavanello (Rutgers U, USA) and Jingqi Chen (Westlake U, China)
-Oct. 19, 2022 - Yang Yang (U of Wisconsin, USA) and Dominikus Brian (NYU Shanghai, China) 
-Nov.  2, 2022 - Andriy Zhugaevich (MPIP Mainz, Germany) and ??
-Nov. 16, 2022 - Aleksey Kuznetsov (Universidad Técnica Federico Santa Maria, Chile) and ??
-Nov. 30, 2022 - TBD
-Dec. 14, 2022 - TBD
-Dec. 21, 2022 - TBD
+* Oct.  5, 2022 - Michele Pavanello (Rutgers U, USA) and Jingqi Chen (Westlake U, China)
+* Oct. 19, 2022 - Yang Yang (U of Wisconsin, USA) and Dominikus Brian (NYU Shanghai, China) 
+* Nov.  2, 2022 - Andriy Zhugaevich (MPIP Mainz, Germany) and ??
+* Nov. 16, 2022 - Aleksey Kuznetsov (Universidad Técnica Federico Santa Maria, Chile) and ??
+* Nov. 30, 2022 - TBD
+* Dec. 14, 2022 - TBD
+* Dec. 21, 2022 - TBD
  
 
 ## Current Executive Committee Members

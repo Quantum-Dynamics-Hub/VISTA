@@ -52,7 +52,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
-All seminars are at **10 am - 11:30 am EDT  
+All seminars are at *10 am - 11:30 am EDT*
 
 * Oct.  5, 2022 - Michele Pavanello (Rutgers U, USA) and Jingqi Chen (Westlake U, China)
 * Oct. 19, 2022 - Yang Yang (U of Wisconsin, USA) and Dominikus Brian (NYU Shanghai, China) 

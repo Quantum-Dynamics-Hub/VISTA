@@ -1,8 +1,8 @@
 ---
-title: "Seminar 42: Michele Pavanello (Rutger University-Newark, USA) and Jingqi Chen (Westlake University, China)"
+title: "Seminar 42: Michele Pavanello (Rutgers University-Newark, USA) and Jingqi Chen (Westlake University, China)"
 date: October 5, 2022, 10:00 - 11:30 am EST / 2:00 - 3:30 pm GMT / 3:00 - 4:30 BST
 abstract: ../assets/abstracts/Flyer_seminar42.pdf
-presenter1: Michele Pavanello (Rutger University-Newark, USA
+presenter1: Michele Pavanello, Rutgers University-Newark, USA
 presentation1: ../assets/presentations/seminar42/MichelePavanello.pdf
 presenter2:  Jingqi Chen, Westlake University, China
 presentation2: ../assets/presentations/seminar42/JingqiChen.pdf

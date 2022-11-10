@@ -45,18 +45,17 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **November 2, 2022, 10:00 - 11:30 am EDT / 2:00 - 3:30 GMT/ 3:00 - 4:30 pm Paris / 10:00 - 11:30 Beijing **
+### **November 16, 2022, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 12:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar44.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar45.pdf" width="900" height="975"  type='application/pdf'>
 
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
-All seminars are at **10 am - 11:30 am EDT**
+All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Nov.  2, 2022 - Andriy Zhugaevich (MPIP Mainz, Germany) and Ilia Sokolovski (U Jyvaskyla, Finland)
-* Nov. 16, 2022 - Aleksey Kuznetsov (Universidad Tecnica Federico Santa Maria, Chile) and ??
-* Nov. 30, 2022 - TBD
+* Nov. 16, 2022 - Aleksey Kuznetsov (Universidad Tecnica Federico Santa Maria, Chile) and Ningyi Lyu (Yale University, USA, Batista group)
+* Nov. 30, 2022 - Marcos G. E. da Luz and Manas Sharma (U Jena; Marek Sierka group)
 * Dec. 14, 2022 - TBD
 * Dec. 21, 2022 - TBD
  

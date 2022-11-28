@@ -9,13 +9,14 @@ before_install:
   - sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9
   - echo "deb https://cran.rstudio.com/bin/linux/ubuntu trusty/" | sudo tee -a /etc/apt/sources.list
   - sudo apt-get update -y
-  - conda install -c conda-forge r-base=4.2.2
-  #- sudo apt-get install -y --allow-unauthenticated r-base
+  #- conda install -c conda-forge r-base=4.2.2
+  - sudo apt-get install -y --allow-unauthenticated r-base
   - sudo Rscript -e "install.packages('knitr', repos = 'https://', dependencies = TRUE)"
   - sudo Rscript -e "install.packages('stringr', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
   - sudo Rscript -e "install.packages('checkpoint', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
   - sudo Rscript -e "install.packages('ggplot2', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
   - rvm default
+  - gem update --system
   - gem install public_suffix -v 4.0.7
   - gem install rouge -v 3.30.0
   - gem install json kramdown jekyll

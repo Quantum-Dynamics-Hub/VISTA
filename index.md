@@ -49,7 +49,6 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 <embed src="assets/abstracts/Flyer_seminar46.pdf" width="900" height="975"  type='application/pdf'>
 
-
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**

@@ -1,6 +1,6 @@
 dist: xenial  # Ubuntu 16.04 (required for python 3.7)
 language: python
-python: 3.9
+python: 3.7
 branches:
   only:
   - gh-pages
@@ -14,7 +14,7 @@ before_install:
   - sudo apt-get update -y
   - sudo apt-get upgrade -y
   #- conda install -c conda-forge r-base=4.2.2
-  - sudo apt-get install -y r-base
+  - sudo apt-get --allow-unauthenticated install -y r-base
   #- sudo apt-get -f install
   #- sudo apt --fix-broken install
   - sudo Rscript -e "install.packages('knitr', repos = 'https://', dependencies = TRUE)"

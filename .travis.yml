@@ -13,8 +13,8 @@ before_install:
   - sudo apt-get update -y
   - sudo apt-get upgrade -y
   #- conda install -c conda-forge r-base=4.2.2
-  - sudo apt-get install -y --allow-unauthenticated r-base
-  - sudo apt --fix-broken install
+  - sudo apt-get --fix-broken install -y --allow-unauthenticated r-base
+  #- sudo apt --fix-broken install
   - sudo Rscript -e "install.packages('knitr', repos = 'https://', dependencies = TRUE)"
   - sudo Rscript -e "install.packages('stringr', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
   - sudo Rscript -e "install.packages('checkpoint', repos = 'https://cran.rstudio.com', dependencies = TRUE)"

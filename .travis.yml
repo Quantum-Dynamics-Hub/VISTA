@@ -10,7 +10,7 @@ before_install:
   - echo "deb https://cran.rstudio.com/bin/linux/ubuntu trusty/" | sudo tee -a /etc/apt/sources.list
   - sudo apt-get update -y
   #- conda install -c conda-forge r-base=4.2.2
-  - sudo apt-get install -y --allow-unauthenticated r-base
+  - sudo apt-get install -y --allow-unauthenticated r-base-dev=3.6.3-2
   - sudo Rscript -e "install.packages('knitr', repos = 'https://', dependencies = TRUE)"
   - sudo Rscript -e "install.packages('stringr', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
   - sudo Rscript -e "install.packages('checkpoint', repos = 'https://cran.rstudio.com', dependencies = TRUE)"

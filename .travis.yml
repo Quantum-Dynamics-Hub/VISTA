@@ -17,10 +17,14 @@ before_install:
   - sudo apt-get --allow-unauthenticated install -y r-base
   #- sudo apt-get -f install
   #- sudo apt --fix-broken install
+  #- sudo Rscript -e "install.packages('knitr', repos = 'https://', dependencies = TRUE)"
+  #- sudo Rscript -e "install.packages('stringr', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
+  #- sudo Rscript -e "install.packages('checkpoint', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
+  #- sudo Rscript -e "install.packages('ggplot2', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
   - sudo Rscript -e "install.packages('knitr', repos = 'https://', dependencies = TRUE)"
-  - sudo Rscript -e "install.packages('stringr', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
-  - sudo Rscript -e "install.packages('checkpoint', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
-  - sudo Rscript -e "install.packages('ggplot2', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
+  - sudo Rscript -e "install.packages('stringr', repos = 'https://cloud.r-project.org', dependencies = TRUE)"
+  - sudo Rscript -e "install.packages('checkpoint', repos = 'https://cloud.r-project.org', dependencies = TRUE)"
+  - sudo Rscript -e "install.packages('ggplot2', repos = 'https://cloud.r-project.org', dependencies = TRUE)"
   - rvm default
   - gem update --system
   #- gem install public_suffix -v 4.0.7
@@ -29,5 +33,5 @@ before_install:
 install:
   - pip install pyyaml
 script:
-  #- make lesson-check-all
+  - make lesson-check-all
   - make --always-make site

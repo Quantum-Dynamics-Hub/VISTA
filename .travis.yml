@@ -11,8 +11,10 @@ before_install:
   #- echo "deb https://cran.rstudio.com/bin/linux/ubuntu trusty/" | sudo tee -a /etc/apt/sources.list
   - echo "deb https://cloud.r-project.org/bin/linux/ubuntu jammy-cran40/" | sudo tee -a /etc/apt/sources.list
   - sudo apt-get update -y
+  - sudo apt-get upgrade -y
   #- conda install -c conda-forge r-base=4.2.2
   - sudo apt-get install -y --allow-unauthenticated r-base
+  - sudo apt --fix-broken install
   - sudo Rscript -e "install.packages('knitr', repos = 'https://', dependencies = TRUE)"
   - sudo Rscript -e "install.packages('stringr', repos = 'https://cran.rstudio.com', dependencies = TRUE)"
   - sudo Rscript -e "install.packages('checkpoint', repos = 'https://cran.rstudio.com', dependencies = TRUE)"

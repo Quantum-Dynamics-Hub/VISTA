@@ -1,6 +1,6 @@
 ---
-title: "Seminar 45: Aleksey E. Kuznetsov (Universidad Tecnica Federico Santa María, Chile) and Ningyi Lyu (Yale University, USA)"
-date: November 16, 2022, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30 CET, PAris / 11:00 pm - 00:30 am CST Beijing
+title: "Seminar 45: Aleksey E. Kuznetsov (Universidad Tecnica Federico Santa Maria, Chile) and Ningyi Lyu (Yale University, USA)"
+date: November 16, 2022, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30 CET, Paris / 11:00 pm - 00:30 am CST Beijing
 abstract: ../assets/abstracts/Flyer_seminar45.pdf
 presenter1: Aleksey E. Kuznetsov, Universidad Tecnica Federico Santa María, Chile
 presentation1: ../assets/presentations/seminar45/AlekseyKuznetsov.pdf

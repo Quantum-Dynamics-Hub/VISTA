@@ -45,16 +45,15 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **November 30, 2022, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 12:30 pm Beijing **
+### **December 14, 2022, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 12:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar46.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar47.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Nov. 30, 2022 - Marcos G. E. da Luz and Manas Sharma (U Jena; Marek Sierka group)
-* Dec. 14, 2022 - TBD
+* Dec. 14, 2022 - Dr. Elisa Pieri (Martinez group) and Ms. Mariana Casal (Barbatti group)
  
 
 ## Current Executive Committee Members

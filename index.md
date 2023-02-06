@@ -45,15 +45,22 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **December 14, 2022, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 12:30 pm Beijing **
+### **February 15, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 12:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar47.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar48.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Dec. 14, 2022 - Dr. Elisa Pieri (Martinez group) and Ms. Mariana Casal (Barbatti group)
+* Feb. 15, 2023 - Sonya Garashchuk and TBD 
+* Mar. 1, 2023
+* Mar. 15, 2023
+* Mar. 29, 2023
+* Apr. 12, 2023
+* Apr. 26, 2023
+* May. 10, 2023
+* May. 24, 2023
  
 
 ## Current Executive Committee Members

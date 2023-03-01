@@ -53,8 +53,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Feb. 15, 2023 - Sonya Garashchuk and Mohammad Shakiba
-* Mar. 1, 2023
+* Mar. 1, 2023 - no seminar
 * Mar. 15, 2023
 * Mar. 29, 2023
 * Apr. 12, 2023

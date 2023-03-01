@@ -8,7 +8,7 @@ If you would like to give a presentation, please apply here:
 <a href="https://forms.gle/n5gT4Np7TkiSCm3P8" target="_blank" rel="nofollow">**Registration form**</a>
 
 ## **Join the mailing list (invite others)**
-- To join or signoff from the list, [visit this link](http://listserv.buffalo.edu/cgi-bin/wa?SUBED1=che-vista-list&A=1)
+- To join or signoff from the list, [visit this link](https://listserv.buffalo.edu/scripts/wa.exe?A0=CHE-VISTA-LIST&X=OA41BBB2DC6071987DF&Y=alexeyak%40buffalo.edu)
 - To send a message to everyone on your list send it to: che-vista-list@listserv.buffalo.edu
 - Please spread the word and invite others to join the community and the mailing list
 

@@ -45,21 +45,22 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **February 15, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 12:30 pm Beijing **
+### **April 12, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 12:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar48.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar49.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Mar. 1, 2023 - no seminar
-* Mar. 15, 2023
-* Mar. 29, 2023
-* Apr. 12, 2023
-* Apr. 26, 2023
-* May. 10, 2023
-* May. 24, 2023
+* Apr. 12, 2023 - Joshua Kretchmer and Michal Andrzej Kochman
+* Apr. 26, 2023 - Jeremy Richards and TBD
+* May. 10, 2023 - Benedetta Menucci and TBD
+* May. 24, 2023 - TBD
+* Jun.  7, 2023 - TBD
+* Jul.  5, 2023 - Micheline Soley and TBD
+* Aug.  2, 2023
+
  
 
 ## Current Executive Committee Members

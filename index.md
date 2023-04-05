@@ -54,7 +54,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 All seminars are at **10 am - 11:30 am EDT/EST**
 
 * Apr. 12, 2023 - Joshua Kretchmer and Michal Andrzej Kochman
-* Apr. 26, 2023 - Jeremy Richards and TBD
+* Apr. 26, 2023 - Jeremy Richardson and Fulu Zheng
 * May. 10, 2023 - Benedetta Menucci and TBD
 * May. 24, 2023 - TBD
 * Jun.  7, 2023 - TBD

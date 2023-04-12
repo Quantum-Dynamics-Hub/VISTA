@@ -4,7 +4,7 @@ date: April 12, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30 CE
 abstract: ../assets/abstracts/Flyer_seminar49.pdf
 presenter1: Joshua Kretchmer, Georgia Institute of Technology, USA
 presentation1: ../assets/presentations/seminar49/JoshuaKretchmer.pdf
-presentation1_extra: ../assets/presentations/seminar48/JoshuaKretchmer.pptx
+presentation1_extra: ../assets/presentations/seminar49/JoshuaKretchmer.pptx
 presenter2: Michal Adrzej Kochman, Polish Academy of Sciences, Poland
 presentation2: ../assets/presentations/seminar49/MichalKochman.pdf
 presentation2_extra: ../assets/presentations/seminar49/MichalKochman.pptx

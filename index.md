@@ -45,20 +45,19 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **April 26, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 12:30 pm Beijing **
+### **May 10, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 12:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar50.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar51.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Apr. 26, 2023 - Jeremy Richardson and Fulu Zheng
-* May. 10, 2023 - Benedetta Menucci and TBD
-* May. 24, 2023 - TBD
-* Jun.  7, 2023 - TBD
+* May. 10, 2023 - Benedetta Menucci and Arkajit Mandal
+* May. 24, 2023 - Michael Filatov and Konstantin Komarov
+* Jun.  7, 2023 - Donald Truhlar and TBD
 * Jul.  5, 2023 - Micheline Soley and TBD
-* Aug.  2, 2023
+* Aug.  2, 2023 - TBD
 
  
 

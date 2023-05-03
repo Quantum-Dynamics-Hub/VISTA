@@ -7,7 +7,6 @@ presentation1: ../assets/presentations/seminar49/JoshuaKretchmer.pdf
 presentation1_extra: ../assets/presentations/seminar49/JoshuaKretchmer.pptx
 presenter2: Michal Adrzej Kochman, Polish Academy of Sciences, Poland
 presentation2: ../assets/presentations/seminar49/MichalKochman.pdf
-presentation2_extra: ../assets/presentations/seminar49/MichalKochman.pptx
 
 ---
 

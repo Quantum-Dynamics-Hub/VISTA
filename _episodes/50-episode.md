@@ -1,7 +1,7 @@
 ---
 title: "Seminar 50: Jeremy Richardson (ETH Zurich, Switzerland) and Fulu Zheng (U of Bremen, Germany)"
 date: April 26, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30 CET, Paris / 11:00 pm - 00:30 am CST Beijing
-abstract: ../assets/abstracts/Flyer_seminar49.pdf
+abstract: ../assets/abstracts/Flyer_seminar50.pdf
 presenter1: Jeremy Richardson, ETH Zurich, Switzerland
 presentation1: ../assets/presentations/seminar50/JeremyRichardson.pdf
 presentation1_extra: ../assets/presentations/seminar50/JeremyRichardson.pptx

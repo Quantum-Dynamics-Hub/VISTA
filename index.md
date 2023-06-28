@@ -45,9 +45,9 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Jun 7, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
+### **Jul 5, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar53.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar54.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
@@ -59,8 +59,13 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * Aug. 16, 2023 - TBD
 * Aug. 30, 2023 - TBD
 * Sep. 13, 2023 - TBD
-
- 
+* Sep. 27, 2023 - TBD
+* Oct. 11, 2023 - TBD
+* Oct. 25, 2023 - TBD
+* Nov.  8, 2023 - TBD
+* Nov. 22, 2023 - TBD
+* Dec.  6, 2023 - TBD
+* Dec. 20, 2023 - TBD
 
 ## Current Executive Committee Members
 

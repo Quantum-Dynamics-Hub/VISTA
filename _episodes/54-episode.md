@@ -6,6 +6,7 @@ presenter1: Micheline Soley, University of Wisconsin-Madison, USA
 presentation1: ../assets/presentations/seminar54/MichelineSoley.pdf
 presenter2:  Atish Ghosh, Visva-Bharati University, India
 presentation2: ../assets/presentations/seminar54/AtishGhosh.pdf
+presentation2_extra: ../assets/presentations/seminar54/AtishGhosh.pptx
 
 ---
 

@@ -57,8 +57,8 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * Sep. 27, 2023 - Katharine Hunt + Diptarka Hait
 * Oct. 11, 2023 - TBD + Daeho Han
 * Oct. 25, 2023 - Hans Lishka + TBD 
-* Nov.  8, 2023 - TBD
-* Nov. 22, 2023 - TBD
+* Nov.  8, 2023 - TBD + Yotam Feldman
+* Nov. 22, 2023 - Emanuele Coccia + TBD
 * Dec.  6, 2023 - TBD
 * Dec. 20, 2023 - Niri Govind + TBD
 

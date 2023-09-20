@@ -45,15 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Sept 13, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
+### **Sept 27, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar55.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar56.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Sep. 13, 2023 - Bill Miller 
 * Sep. 27, 2023 - Katharine Hunt + Diptarka Hait
 * Oct. 11, 2023 - TBD + Daeho Han
 * Oct. 25, 2023 - Hans Lishka + TBD 

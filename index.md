@@ -45,21 +45,40 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Sept 27, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
+### **Oct. 11, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar56.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar57.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Sep. 27, 2023 - Katharine Hunt + Diptarka Hait
-* Oct. 11, 2023 - TBD + Daeho Han
-* Oct. 25, 2023 - Hans Lishka + TBD 
-* Nov.  8, 2023 - TBD + Yotam Feldman
+* Oct. 11, 2023 - Xiao Zheng + Daeho Han
+* Oct. 25, 2023 - Hans Lishka + Akhil Chakravarthy 
+* Nov.  8, 2023 - Artur Izmaylov + Yotam Feldman
 * Nov. 22, 2023 - Emanuele Coccia + TBD
-* Dec.  6, 2023 - TBD
+* Dec.  6, 2023 - Nanna List + TBD
 * Dec. 20, 2023 - Niri Govind + TBD
+
+* Jan. 10, 2024 
+* Jan. 24, 2024
+* Feb. 7, 2024
+* Feb. 21, 2024
+* Mar. 6, 2024
+* Mar. 20, 2024
+* Apr. 3, 2024
+* Apr. 17, 2024
+* May. 1, 2024
+* May. 15, 2024
+* May. 29, 2024
+* Jun. 12, 2024
+* Jun. 26, 2024
+* Jul. 10, 2024
+* Jul. 24, 2024
+* Aug. 7, 2024
+
+
+
 
 ## Current Executive Committee Members
 

@@ -1,5 +1,5 @@
 ---
-title: "Seminar 56: Katharine L. C. Hunt (Michigan State University, USA) and  Dr. Diptarka Hait (Stanford University, USA)
+title: "Seminar 56: Katharine L. C. Hunt (Michigan State University, USA) and  Dr. Diptarka Hait (Stanford University, USA)"
 date: September 27 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30 CET, Paris / 10:00 pm - 11:30 pm CST Beijing
 abstract: ../assets/abstracts/Flyer_seminar56.pdf
 presenter1: Katharine L. C. Hunt, Michigan State University, USA

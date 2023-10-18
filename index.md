@@ -45,15 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Oct. 11, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
+### **Oct. 25, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar57.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar58.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Oct. 11, 2023 - Xiao Zheng + Daeho Han
 * Oct. 25, 2023 - Hans Lishka + Akhil Chakravarthy 
 * Nov.  8, 2023 - Artur Izmaylov + Yotam Feldman
 * Nov. 22, 2023 - Emanuele Coccia + TBD

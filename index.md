@@ -45,15 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Oct. 25, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
+### **Nov. 8, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar58.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar59.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Oct. 25, 2023 - Hans Lishka + Akhil Chakravarthy 
 * Nov.  8, 2023 - Artur Izmaylov + Yotam Feldman
 * Nov. 22, 2023 - Emanuele Coccia + TBD
 * Dec.  6, 2023 - Nanna List + TBD
@@ -62,11 +61,11 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * Jan. 10, 2024 
 * Jan. 24, 2024
 * Feb. 7, 2024
-* Feb. 21, 2024
+* Feb. 21, 2024 - Vasilii Perebeinos + TBD
 * Mar. 6, 2024
 * Mar. 20, 2024
 * Apr. 3, 2024
-* Apr. 17, 2024
+* Apr. 17, 2024 - Frank Grossmann and Yulong Qiao
 * May. 1, 2024
 * May. 15, 2024
 * May. 29, 2024
@@ -89,6 +88,7 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * **Levine, Ben**          Stony Brook University, SUNY, USA
 * **Long, Run**            Beijing Normal University, China
 * **Rego, Luis**           Universidade Federal de Santa Catarina, Brazil
+* **Garashchuk, Sophya**   University of South Carolina, USA
 * **Sun, Xiang**           New York University Shanghai, China
 * **Tretiak, Sergei**      Los Alamos National Laboratory, USA
 * **Wang, Linjun**         Zhejiang University, China

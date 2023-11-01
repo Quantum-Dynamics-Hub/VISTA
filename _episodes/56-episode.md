@@ -4,7 +4,7 @@ date: September 27 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30
 abstract: ../assets/abstracts/Flyer_seminar56.pdf
 presenter1: Katharine L. C. Hunt, Michigan State University, USA
 presentation1: ../assets/presentations/seminar56/KatharineHunt.pdf
-presenter2: Dr. Diptarka Hait, Stanford University, USA
+presenter2: Diptarka Hait, Stanford University, USA
 presentation2: ../assets/presentations/seminar56/DiptarkaHait.pdf
 
 ---

@@ -2,7 +2,7 @@
 title: "Seminar 57: Xiao Zheng (Fudan University, PR China) and Daeho Han(Ulsan National Institute of Science and Technology, S. Korea)"
 date: October 11 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30 CET, Paris / 10:00 pm - 11:30 pm CST Beijing
 abstract: ../assets/abstracts/Flyer_seminar57.pdf
-presenter1: Seminar 57: Xiao Zheng, Fudan University, PR China
+presenter1: Xiao Zheng, Fudan University, PR China
 presentation1: ../assets/presentations/seminar57/XiaoZheng.pdf
 presenter2: Daeho Han, Ulsan National Institute of Science and Technology, S. Korea
 presentation2: ../assets/presentations/seminar57/DaehoHan.pdf

@@ -45,16 +45,15 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Nov. 8, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 10:00 - 11:30 pm Beijing **
+### **Nov. 22, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 00:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar59.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar60.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Nov.  8, 2023 - Artur Izmaylov + Yotam Feldman
-* Nov. 22, 2023 - Emanuele Coccia + TBD
+* Nov. 22, 2023 - Emanuele Coccia + Sachith Wikramasinghe
 * Dec.  6, 2023 - Nanna List + TBD
 * Dec. 20, 2023 - Niri Govind + TBD
 

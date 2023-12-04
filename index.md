@@ -53,8 +53,8 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Dec.  6, 2023 - Nanna List + Thomas Fay
-* Dec. 20, 2023 - Niri Govind + TBD
+* Dec.  6, 2023 - Oleg Prezhdo + Thomas Fay
+* Dec. 20, 2023 - no seminar 
 
 * Jan. 10, 2024 
 * Jan. 24, 2024

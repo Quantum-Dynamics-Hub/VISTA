@@ -3,7 +3,7 @@ title: "Seminar 59: Artur Izmaylov (University of Toronto, Canada) and Yotam Fel
 date: November 8 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30 CET, Paris / 10:00 pm - 11:30 pm CST Beijing
 abstract: ../assets/abstracts/Flyer_seminar59.pdf
 presenter1: Artur Izmaylov, University of Toronto, Canada
-presentation2: ../assets/presentations/seminar59/ArturIzmaylov.pdf
+presentation1: ../assets/presentations/seminar59/ArturIzmaylov.pdf
 presenter2: Yotam Feldman, Tel Aviv University, Israel
 presentation2: ../assets/presentations/seminar59/YotamFeldman.pdf
 

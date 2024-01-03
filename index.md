@@ -60,7 +60,7 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * Jan. 24, 2024
 * Feb. 7, 2024
 * Feb. 21, 2024 - Vasilii Perebeinos + TBD
-* Mar. 6, 2024
+* Mar. 6, 2024 - Nanna List + TBD
 * Mar. 20, 2024
 * Apr. 3, 2024
 * Apr. 17, 2024 - Frank Grossmann and Yulong Qiao

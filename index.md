@@ -45,30 +45,25 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Dec. 6, 2023, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 00:30 pm Beijing **
+### **Feb. 7, 2024, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 00:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar61.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar62.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Dec.  6, 2023 - Oleg Prezhdo + Thomas Fay
-* Dec. 20, 2023 - no seminar 
-
-* Jan. 10, 2024 
-* Jan. 24, 2024
-* Feb. 7, 2024
+* Feb. 7, 2024 - Zhenggang Lan only
 * Feb. 21, 2024 - Vasilii Perebeinos + TBD
 * Mar. 6, 2024 - Nanna List + TBD
-* Mar. 20, 2024
-* Apr. 3, 2024
+* Mar. 20, 2024 - Pavlo Dral + TBD
+* Apr. 3, 2024 - ?? + Danillo Valverde
 * Apr. 17, 2024 - Frank Grossmann and Yulong Qiao
-* May. 1, 2024
-* May. 15, 2024
-* May. 29, 2024
-* Jun. 12, 2024
-* Jun. 26, 2024
+* May. 1, 2024 - Jochen Autschbach + TBD
+* May. 15, 2024 - Christine Aikens + TBD
+* May. 29, 2024 - Jacek Jakowski + TBD
+* Jun. 12, 2024 - Yosuke Kanai + TBD
+* Jun. 26, 2024 - Riccardo Conte + TBD
 * Jul. 10, 2024
 * Jul. 24, 2024
 * Aug. 7, 2024

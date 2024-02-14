@@ -45,28 +45,27 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Feb. 7, 2024, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 00:30 pm Beijing **
+### **Feb. 21, 2024, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 00:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar62.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar63.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Feb. 7, 2024 - Zhenggang Lan only
-* Feb. 21, 2024 - Vasilii Perebeinos + TBD
-* Mar. 6, 2024 - Nanna List + TBD
-* Mar. 20, 2024 - Pavlo Dral + TBD
+* Feb. 21, 2024 - Vasilii Perebeinos + Michele Gandolfi
+* Mar. 6, 2024 - Nanna List + Shreyas Malpathak (Cornell, Ananth group)
+* Mar. 20, 2024 - Pavlo Dral + Yuchen Wang (KSU, Aikens group)
 * Apr. 3, 2024 - ?? + Danillo Valverde
 * Apr. 17, 2024 - Frank Grossmann and Yulong Qiao
-* May. 1, 2024 - Jochen Autschbach + TBD
-* May. 15, 2024 - Christine Aikens + TBD
-* May. 29, 2024 - Jacek Jakowski + TBD
+* May. 1, 2024 - Jochen Autschbach + Annina Lieberherr (U of Oxford, Manolopoulos group)
+* May. 15, 2024 - Christine Aikens + Arshad Mehmood (Stony Brook U, Levine group)
+* May. 29, 2024 - Jacek Jakowski + Zisheng Zhang (UCLA, Alexandrova group)
 * Jun. 12, 2024 - Yosuke Kanai + TBD
 * Jun. 26, 2024 - Riccardo Conte + TBD
-* Jul. 10, 2024
-* Jul. 24, 2024
-* Aug. 7, 2024
+* Jul. 10, 2024 - TBD
+* Jul. 24, 2024 - TBD
+* Aug. 7, 2024  - TBD
 
 
 

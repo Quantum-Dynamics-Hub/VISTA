@@ -45,15 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Mar. 6, 2024, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 00:30 pm Beijing **
+### **Mar. 20, 2024, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 00:30 pm Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar64.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar65.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Mar. 6, 2024 - Nanna List + Shreyas Malpathak (Cornell, Ananth group)
 * Mar. 20, 2024 - Pavlo Dral + Yuchen Wang (KSU, Aikens group)
 * Apr. 3, 2024 - ?? + Danillo Valverde
 * Apr. 17, 2024 - Frank Grossmann and Yulong Qiao

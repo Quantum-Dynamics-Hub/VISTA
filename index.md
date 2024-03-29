@@ -45,7 +45,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Mar. 20, 2024, 10:00 - 11:30 am EST / 3:00 - 4:30 GMT/ 4:00 - 5:30 pm Paris / 11:00 - 00:30 pm Beijing **
+### **Apr. 3, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
 <embed src="assets/abstracts/Flyer_seminar65.pdf" width="900" height="975"  type='application/pdf'>
 
@@ -53,9 +53,8 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Mar. 20, 2024 - Pavlo Dral + Yuchen Wang (KSU, Aikens group)
-* Apr. 3, 2024 - ?? + Danillo Valverde
-* Apr. 17, 2024 - Frank Grossmann and Yulong Qiao
+* Apr. 3, 2024 - Frank Grossmann and Yulong Qiao
+* Apr. 17, 2024 - ?? + Danillo Valverde
 * May. 1, 2024 - Jochen Autschbach + Annina Lieberherr (U of Oxford, Manolopoulos group)
 * May. 15, 2024 - Christine Aikens + Arshad Mehmood (Stony Brook U, Levine group)
 * May. 29, 2024 - Jacek Jakowski + Zisheng Zhang (UCLA, Alexandrova group)

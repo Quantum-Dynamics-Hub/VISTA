@@ -45,24 +45,42 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Apr. 3, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **Apr. 17, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar66.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar67.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Apr. 3, 2024 - Frank Grossmann and Yulong Qiao
-* Apr. 17, 2024 - ?? + Danillo Valverde
+* Apr. 17, 2024 - Tammie Gibson + Danillo Valverde
 * May. 1, 2024 - Jochen Autschbach + Annina Lieberherr (U of Oxford, Manolopoulos group)
 * May. 15, 2024 - Christine Aikens + Arshad Mehmood (Stony Brook U, Levine group)
 * May. 29, 2024 - Jacek Jakowski + Zisheng Zhang (UCLA, Alexandrova group)
-* Jun. 12, 2024 - Yosuke Kanai + TBD
+* Jun. 12, 2024 - Yosuke Kanai + Joshua A. Leveillee
 * Jun. 26, 2024 - Riccardo Conte + TBD
-* Jul. 10, 2024 - TBD
+* Jul. 10, 2024 - Sijia Dong + TBD
 * Jul. 24, 2024 - TBD
 * Aug. 7, 2024  - TBD
+* Sept. 4, 2024
+* Sept. 18, 2024
+* Oct. 2, 2024 -  Zhang Yu (LANL) + ??
+* Oct. 16, 2024
+* Oct. 30, 2024
+* Nov. 13, 2024
+* Dec. 3, 2024
+* Dec. 18, 2024  - perhaps
+* Jan. 15, 2025
+* Jan. 29, 2025
+* Feb. 12, 2025
+* Feb. 26, 2025
+* Mar. 12, 2025
+* Mar. 26, 2025
+* Apr. 9, 2025
+* Apr. 23, 2025
+* May 7, 2025
+* May 21, 2025
+* Jun. 4, 2025
 
 
 

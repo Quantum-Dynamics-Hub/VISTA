@@ -45,15 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Apr. 17, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **May 1, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar67.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar68.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Apr. 17, 2024 - Tammie Gibson + Danillo Valverde
 * May. 1, 2024 - Jochen Autschbach + Annina Lieberherr (U of Oxford, Manolopoulos group)
 * May. 15, 2024 - Christine Aikens + Arshad Mehmood (Stony Brook U, Levine group)
 * May. 29, 2024 - Jacek Jakowski + Zisheng Zhang (UCLA, Alexandrova group)

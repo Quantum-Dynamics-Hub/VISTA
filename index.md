@@ -45,17 +45,16 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **June 26, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **July 10, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar72.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar73.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Jun. 26, 2024 - Riccardo Conte + Ishita Bhattacharjee (Indian Association for the Cultivation of Science, Kolkatta; Prof. Ankan Paul group)
 * Jul. 10, 2024 - Sijia Dong + Aliya Mukhazanova
-* BREAK
+* SUMMER BREAK
 * Sept. 4, 2024 - TBD + Sreeja Choudhury (Prof. Irene Burghardt at the Goethe University Frankfurt, Germany)
 * Sept. 18, 2024 - Sebastian F. Alberti (Universidad Nacional de Quilmes) + Rob Lavroff (Alexandrova group, UCLA)
 * Oct. 2, 2024 -  Zhang Yu (LANL) + Martin van Horn

@@ -45,27 +45,26 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **September 4, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **September 18, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar74.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar75.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Sept. 4, 2024 - Maksim Kulichenko (LANL) + Sreeja Choudhury (Prof. Irene Burghardt at the Goethe University Frankfurt, Germany)
 * Sept. 18, 2024 - Sebastian F. Alberti (Universidad Nacional de Quilmes) + Rob Lavroff (Alexandrova group, UCLA)
 * Oct. 2, 2024 -  Zhang Yu (LANL) + Martin van Horn
 * Oct. 16, 2024 - Bill Poirier + Richard Lombardini
 * Oct. 30, 2024 - Damian Scherlis + TBD (Univ. Buenos Aires)
 * Nov. 13, 2024 - Chaoyuan Zhu (National Yang Ming Chiao-Tung University)
-* Dec. 3, 2024
+* Dec. 3, 2024 -  Christine Aikens + TBD
 * Dec. 18, 2024  - perhaps
 * Jan. 15, 2025
-* Jan. 29, 2025 - Farnaz Shakib + TBD
+* Jan. 29, 2025 - Lea-Maria Ibele + Sreeja Loho Choudhury
 * Feb. 12, 2025 - Norah Hoffmann (NYU) + TBD
-* Feb. 26, 2025
-* Mar. 12, 2025
+* Feb. 26, 2025 - 
+* Mar. 12, 2025 - Farnaz Shakib + TBD
 * Mar. 26, 2025
 * Apr. 9, 2025
 * Apr. 23, 2025

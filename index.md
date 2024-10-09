@@ -45,15 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **October 2, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **October 16, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar76.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar77.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Oct. 2, 2024 -  Yu Zhang (LANL) + Martin van Horn (KTH Royal Institute of Technology)
 * Oct. 16, 2024 - Bill Poirier + Richard Lombardini
 * Oct. 30, 2024 - Damian Scherlis + TBD (Univ. Buenos Aires)
 * Nov. 13, 2024 - Chaoyuan Zhu (National Yang Ming Chiao-Tung University)

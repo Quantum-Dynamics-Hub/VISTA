@@ -45,26 +45,25 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **October 16, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **October 30, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar77.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar78.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Oct. 16, 2024 - Bill Poirier + Richard Lombardini
-* Oct. 30, 2024 - Damian Scherlis + TBD (Univ. Buenos Aires)
-* Nov. 13, 2024 - Chaoyuan Zhu (National Yang Ming Chiao-Tung University)
+* Oct. 30, 2024 - Damian Scherlis + Songhao Bao
+* Nov. 13, 2024 - Chaoyuan Zhu + TBD
 * Dec. 3, 2024 -  Christine Aikens + TBD
-* Dec. 18, 2024  - perhaps
-* Jan. 15, 2025
+* Dec. 18, 2024 - perhaps
+* Jan. 15, 2025 - Andrei Piryatinski + TBD
 * Jan. 29, 2025 - Lea-Maria Ibele + Sreeja Loho Choudhury
 * Feb. 12, 2025 - Norah Hoffmann (NYU) + TBD
 * Feb. 26, 2025 - 
 * Mar. 12, 2025 - Farnaz Shakib + TBD
 * Mar. 26, 2025
-* Apr. 9, 2025
+* Apr. 9, 2025 - Richard Lombardini + TBD
 * Apr. 23, 2025
 * May 7, 2025
 * May 21, 2025 - Julia Westermayr + TBD

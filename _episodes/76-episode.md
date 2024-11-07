@@ -1,4 +1,3 @@
-
 ---
 title: "Seminar 76: Yu Zhang (Los Alamost National Laboratory, USA) and Martin van Horn (KTH Royal Institute of Technology, Sweden)"
 date: October 2, 2024, 10:00 - 11:30 am EDT / 3:00 - 4:30 pm BST / 4:00 - 5:30 pm CEST, Paris / 10:00 pm - 11:30 pm CST Beijing

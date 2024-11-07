@@ -45,27 +45,26 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **October 30, 2024, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **November 13, 2024, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar78.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar79.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Oct. 30, 2024 - Damian Scherlis + Songhao Bao
-* Nov. 13, 2024 - Chaoyuan Zhu + TBD
-* Dec. 3, 2024 -  Christine Aikens + TBD
+* Nov. 13, 2024 - Chaoyuan Zhu (National Yang Ming Chiao-Tung University) + Mohammad Shakiba (University at Buffalo)
+* Dec. 3, 2024 -  Christine Aikens (Kansas State U) + Yeonsig Nam (ANL)
 * Dec. 18, 2024 - perhaps
-* Jan. 15, 2025 - Andrei Piryatinski + TBD
+* Jan. 15, 2025 - Andrei Piryatinski (LANL) + TBD
 * Jan. 29, 2025 - Lea-Maria Ibele + Sreeja Loho Choudhury
 * Feb. 12, 2025 - Norah Hoffmann (NYU) + TBD
-* Feb. 26, 2025 - 
+* Feb. 26, 2025 - Justin Talbot (Clemson) + TBD
 * Mar. 12, 2025 - Farnaz Shakib + TBD
-* Mar. 26, 2025
+* Mar. 26, 2025 - Bing Gu + Yujuyan (Westlake U)
 * Apr. 9, 2025 - Richard Lombardini + TBD
-* Apr. 23, 2025
-* May 7, 2025
+* Apr. 23, 2025 - TBD
+* May 7, 2025 - TBD
 * May 21, 2025 - Julia Westermayr + TBD
 * Jun. 4, 2025 - Mohammadreza Momenitaheri + TBD
 

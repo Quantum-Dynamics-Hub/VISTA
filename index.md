@@ -45,20 +45,18 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **November 13, 2024, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 pm CST, Beijing **
+### **December 11, 2024, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 am CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar79.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar80.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Nov. 13, 2024 - Chaoyuan Zhu (National Yang Ming Chiao-Tung University) + Mohammad Shakiba (University at Buffalo)
-* Dec. 3, 2024 -  Christine Aikens (Kansas State U) + Yeonsig Nam (ANL)
-* Dec. 18, 2024 - perhaps
-* Jan. 15, 2025 - Andrei Piryatinski (LANL) + TBD
+* Dec. 11, 2024 - Christine Aikens (Kansas State U) + Victor Suarez (Georgia Tech)
+* Jan. 15, 2025 - Andrei Piryatinski (LANL) + Sameernandan Upadhyayula (Weitzmann Institute)
 * Jan. 29, 2025 - Lea-Maria Ibele + Sreeja Loho Choudhury
-* Feb. 12, 2025 - Norah Hoffmann (NYU) + TBD
+* Feb. 12, 2025 - Norah Hoffmann (NYU) + Yeonsig Nam (LANL)
 * Feb. 26, 2025 - Justin Talbot (Clemson) + TBD
 * Mar. 12, 2025 - Farnaz Shakib + TBD
 * Mar. 26, 2025 - Bing Gu + Yujuyan (Westlake U)

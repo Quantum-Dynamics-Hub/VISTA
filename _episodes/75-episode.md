@@ -4,6 +4,7 @@ date: September 18, 2024, 10:00 - 11:30 am EDT / 3:00 - 4:30 pm BST / 4:00 - 5:3
 abstract: ../assets/abstracts/Flyer_seminar75.pdf
 presenter1: Sebastian Fernandez-Alberti, Universidad Nacional de Quilmes/CONICET, Argentina
 presentation1: ../assets/presentations/seminar75/SebastianFernandezAlberti.pdf
+presentation1_extra: ../assets/presentations/seminar75/SebastianFernandezAlberti.pptx
 presenter2: and Robert H. Lavroff (University of California, Los Angeles, USA)
 presentation2: ../assets/presentations/seminar75/RobertLavroff.pdf
 

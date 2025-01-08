@@ -1,7 +1,7 @@
 ---
 title: "Seminar 79: Chaoyuan Zhu (National Yang Ming Chiao Tung University, China) and Mohammad Shakiba (University at Buffalo, USA)"
 date: November 13, 2024, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30 pm CET, Paris / 11:00 pm - 12:30 am CST Beijing
-abstract: ../assets/abstracts/Flyer_seminar78.pdf
+abstract: ../assets/abstracts/Flyer_seminar79.pdf
 presenter1: Chaoyuan Zhu, National Yang Ming Chiao Tung University, China
 presentation1: ../assets/presentations/seminar79/ChaoyuanZhu.pdf
 presenter2: Mohammad Shakiba, University at Buffalo, USA

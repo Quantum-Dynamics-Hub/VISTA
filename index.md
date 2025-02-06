@@ -45,16 +45,15 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **January 29, 2025, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 am CST, Beijing **
+### **February 12, 2025, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 am CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar82.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar83.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Jan. 29, 2025 - Lea-Maria Ibele + Alessandro Loreti
-* Feb. 12, 2025 - Norah Hoffmann (NYU) + Yeonsig Nam (LANL)
+* Feb. 12, 2025 - Norah Hoffmann (NYU) + Yeonsig Nam (ANL)
 * Feb. 26, 2025 - Justin Talbot (Clemson) + TBD
 * Mar. 12, 2025 - Farnaz Shakib + TBD
 * Mar. 26, 2025 - Bing Gu + Yujuyan (Westlake U)

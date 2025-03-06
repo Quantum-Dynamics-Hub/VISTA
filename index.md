@@ -45,16 +45,15 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **February 26, 2025, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 am CST, Beijing **
+### **March 12, 2025, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 am CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar84.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar85.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Feb. 26, 2025 - Justin Talbot (Clemson) + Liz Stippell (USC)
-* Mar. 12, 2025 - Farnaz Shakib + TBD
+* Mar. 12, 2025 - Farnaz Shakib + Muhammad Hasyim
 * Mar. 26, 2025 - Bing Gu + Yujuyan (Westlake U)
 * Apr. 9, 2025 - Richard Lombardini + TBD
 * Apr. 23, 2025 - Sergei Bokarev + TBD

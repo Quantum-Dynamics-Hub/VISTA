@@ -45,7 +45,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **March 12, 2025, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 am CST, Beijing **
+### **March 12, 2025, 10:00 - 11:30 am EDT, Buffalo / 2:00 - 3:30 GMT, London/ 3:00 - 4:30 pm CET, Paris / 10:00 - 11:30 pm CST, Beijing **
 
 <embed src="assets/abstracts/Flyer_seminar85.pdf" width="900" height="975"  type='application/pdf'>
 

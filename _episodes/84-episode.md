@@ -13,7 +13,7 @@ presentation2: ../assets/presentations/seminar84/ElizabethStippell.pdf
 <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=87d4bf89-645c-4d68-beb3-b290011e4ad9
 &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
 style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" 
-aria-description="Seminar# 84: Justin Talbot and Elizabeth Stippell" ></iframe>
+aria-description="Seminar #84: Justin Talbot and Elizabeth Stippell" ></iframe>
 
 
 

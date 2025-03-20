@@ -1,6 +1,6 @@
 ---
 title: "Seminar 85: Farnaz Shakib (New Jersey Institute of Technology, USA) and Muhammad Hasyim (New York University, USA)"
-date: March 12, 2025, 10:00 - 11:30 am EDT, Buffalo / 2:00 - 3:30 pm GMT, London / 3:00 - 4:30 pm CET, Paris / 10:00 pm - 11:30 pm CST, Beijing
+date: March 12, 2025, 10:00 - 11:30 am EDT / 2:00 - 3:30 pm GMT / 3:00 - 4:30 pm CET, Paris / 10:00 pm - 11:30 pm CST, Beijing
 abstract: ../assets/abstracts/Flyer_seminar85.pdf
 presenter1: Farnaz Shakib, New Jersey Institute of Technology, USA
 presentation1: ../assets/presentations/seminar85/FarnazShakib.pdf

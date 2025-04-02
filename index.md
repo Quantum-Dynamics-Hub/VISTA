@@ -45,20 +45,19 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **March 26, 2025, 10:00 - 11:30 am EDT, Buffalo / 2:00 - 3:30 pm GMT, London/ 3:00 - 4:30 pm CET, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **April 9, 2025, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar86.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar87.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Mar. 26, 2025 - Bing Gu + Yujuyan (Westlake U)
-* Apr. 9, 2025 - Richard Lombardini + TBD
+* Apr. 9, 2025 - Richard Lombardini + Davide Moscato
 * Apr. 23, 2025 - Sergei Bokarev + Saeed Rahmanian Koshkaki (TAMU)
 * May 7, 2025 - Marcio Varella (U of Sao Paulo) + TBD
-* May 21, 2025 - Julia Westermayr + TBD
-* Jun. 4, 2025 - Mohammadreza Momenitaheri + TBD
+* May 21, 2025 - Julia Westermayr + Peter Schurger
+* Jun. 4, 2025 - Mohammad R. Momeni + TBD
 
 
 

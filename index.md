@@ -45,18 +45,17 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **May 7, 2025, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **May 21, 2025, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar89.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar90.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* May 7, 2025 - Marcio Varella (U of Sao Paulo) + Aric Hackebill
 * May 21, 2025 - Julia Westermayr + Peter Schurger
 * Jun. 4, 2025 - Mohammad R. Momeni + Nathan London
-
+* To be continued in Fall 2025
 
 
 
@@ -67,7 +66,6 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * **Barbatti, Mario**      Aix-Marseille University, Frace
 * **Curchod, Basile**      Durham University, UK
 * **Jakowski, Jacek**      Oak Ridge National Laboratory, USA
-* **Levine, Ben**          Stony Brook University, SUNY, USA
 * **Long, Run**            Beijing Normal University, China
 * **Rego, Luis**           Universidade Federal de Santa Catarina, Brazil
 * **Garashchuk, Sophya**   University of South Carolina, USA
@@ -84,6 +82,7 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * **Jain, Amber**          Indian Institute of Technology, Bombay, India
 * **Gonzalez, Leticia**    University of Vienna, Austria
 * **Kilin, Dmitri**        North Dakota State University, USA
+* **Levine, Ben**          Stony Brook University, SUNY, USA
 * **Prezhdo, Oleg**        University of Southern California, USA
 * **Sanyal, Biplab**       Upsala University, Sweden
 * **Zhao, Jin**            University of Science and Technology of China, China

@@ -5,8 +5,7 @@ title: Event Details
 ## **Abstract Submission**
 
 If you would like to give a presentation, please apply here: 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd68-mw8PZMK5co0oWtwqud-zE_GlqeLnIyUnJSNucauY037A/viewform?usp=sf_link" 
-target="_blank" rel="nofollow">**Registration form**</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd68-mw8PZMK5co0oWtwqud-zE_GlqeLnIyUnJSNucauY037A/viewform?usp=sf_link" target="_blank" rel="nofollow">**Registration form**</a>
 
 ## **Join the mailing list (invite others)**
 - To join or signoff from the list, [visit this link](https://listserv.buffalo.edu/scripts/wa.exe?A0=CHE-VISTA-LIST&X=OA41BBB2DC6071987DF&Y=alexeyak%40buffalo.edu)

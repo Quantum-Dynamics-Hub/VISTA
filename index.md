@@ -41,8 +41,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 - TD-DFT
 - algorithms, methods, and software for excited state, nonadiabatic, and quantum dynamics
 
-### <a href="https://docs.google.com/forms/d/e/1FAIpQLSd68-mw8PZMK5co0oWtwqud-zE_GlqeLnIyUnJSNucauY037A/viewform?usp=sf_link" 
-target="_blank" rel="nofollow">**The abstract submission is now open**</a>
+### <a href="https://docs.google.com/forms/d/e/1FAIpQLSd68-mw8PZMK5co0oWtwqud-zE_GlqeLnIyUnJSNucauY037A/viewform?usp=sf_link" target="_blank" rel="nofollow">**The abstract submission is now open**</a>
 
 ## Upcoming Seminars
 
@@ -55,9 +54,15 @@ target="_blank" rel="nofollow">**The abstract submission is now open**</a>
 All seminars are at **10 am - 11:30 am EDT/EST**
 
 * Jun. 4, 2025 - Mohammad R. Momeni + Nathan London
-* To be continued in Fall 2025
-
-
+* Sept. 3, 2025 - TBD
+* Sept. 17, 2025 - TBD
+* Oct. 1, 2025 - TBD
+* Oct. 15, 2025 - TBD
+* Oct. 29, 2025 - TBD
+* Nov. 12, 2025 - TBD
+* Dec. 3, 2025 - TBD
+* Dec. 17, 2025 - TBD
+* Jan, 2026 - Centenninal VISTA seminar
 
 ## Current Executive Committee Members
 

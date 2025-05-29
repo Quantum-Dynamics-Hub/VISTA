@@ -41,19 +41,19 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 - TD-DFT
 - algorithms, methods, and software for excited state, nonadiabatic, and quantum dynamics
 
-### <a href="https://forms.gle/n5gT4Np7TkiSCm3P8" target="_blank" rel="nofollow">**The abstract submission is now open**</a>
+### <a href="https://docs.google.com/forms/d/e/1FAIpQLSd68-mw8PZMK5co0oWtwqud-zE_GlqeLnIyUnJSNucauY037A/viewform?usp=sf_link" 
+target="_blank" rel="nofollow">**The abstract submission is now open**</a>
 
 ## Upcoming Seminars
 
-### **May 21, 2025, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **June 4, 2025, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar90.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar91.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* May 21, 2025 - Julia Westermayr + Peter Schurger
 * Jun. 4, 2025 - Mohammad R. Momeni + Nathan London
 * To be continued in Fall 2025
 
@@ -65,10 +65,10 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * **Akimov, Alexey**       University at Buffalo, SUNY, USA
 * **Barbatti, Mario**      Aix-Marseille University, Frace
 * **Curchod, Basile**      Durham University, UK
-* **Jakowski, Jacek**      Oak Ridge National Laboratory, USA
-* **Long, Run**            Beijing Normal University, China
-* **Rego, Luis**           Universidade Federal de Santa Catarina, Brazil
 * **Garashchuk, Sophya**   University of South Carolina, USA
+* **Jakowski, Jacek**      Oak Ridge National Laboratory, USA
+* **Rego, Luis**           Universidade Federal de Santa Catarina, Brazil
+* **Long, Run**            Beijing Normal University, China
 * **Sun, Xiang**           New York University Shanghai, China
 * **Tretiak, Sergei**      Los Alamos National Laboratory, USA
 * **Wang, Linjun**         Zhejiang University, China

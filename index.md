@@ -54,7 +54,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 All seminars are at **10 am - 11:30 am EDT/EST**
 
 * Sep.  3, 2025 - Wenjie Dou (Westlake University, China) + Daeho Han (recently Akimov group)
-* Sep. 17, 2025 - Daniel Nascimento + Dean Lahana (Martínez group, now Bannwarth group)
+* Sep. 17, 2025 - Daniel Nascimento + Dean Lahana (Martinez group, now Bannwarth group)
 * Oct.  1, 2025 - Ari Chakraborty + Anna Baranova (Maitra group)
 * Oct. 15, 2025 - Maxim Gelin + Zengkui Liu (Xiang Sun group)
 * Oct. 29, 2025 - Basile Curchod + Victor Freixas (Shaul Mukamel group)
@@ -64,7 +64,7 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * Jan. 14, 2026 - John Tully - Centenninal VISTA seminar
 * Jan. 28, 2026 - TBD
 * Feb. 11, 2026 - TBD
-* Feb. 25, 2026 - Laura M. P. González + TBD
+* Feb. 25, 2026 - Laura M. P. Gonzalez + TBD
 * Mar. 11, 2026 - TBD
 * Mar. 25, 2026 - TBD
 * Apr.  8, 2026 - TBD
@@ -77,8 +77,8 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 
 * **Agostini, Federica**   University Paris-Saclay, France
 * **Akimov, Alexey**       University at Buffalo, SUNY, USA
-* **Barbatti, Mario**      Aix-Marseille University, Frace
-* **Fernandez-Alberti, Sebastian**  Univercidad Nacional de Quilmes, Argentina 
+* **Barbatti, Mario**      Aix-Marseille University, France
+* **Fernandez-Alberti, Sebastian**  Universidad Nacional de Quilmes, Argentina 
 * **Garashchuk, Sophya**   University of South Carolina, USA
 * **Jakowski, Jacek**      Oak Ridge National Laboratory, USA
 * **Long, Run**            Beijing Normal University, China

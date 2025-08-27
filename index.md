@@ -45,35 +45,44 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **June 4, 2025, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **September 3, 2025, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar91.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar92.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Jun. 4, 2025 - Mohammad R. Momeni + Nathan London
-* Sept. 3, 2025 - TBD
-* Sept. 17, 2025 - TBD
-* Oct. 1, 2025 - TBD
-* Oct. 15, 2025 - TBD
-* Oct. 29, 2025 - TBD
-* Nov. 12, 2025 - TBD
-* Dec. 3, 2025 - TBD
-* Dec. 17, 2025 - TBD
-* Jan, 2026 - Centenninal VISTA seminar
+* Sep.  3, 2025 - Wenjie Dou (Westlake University, China) + Daeho Han (recently Akimov group)
+* Sep. 17, 2025 - Daniel Nascimento + Dean Lahana (Martínez group, now Bannwarth group)
+* Oct.  1, 2025 - Ari Chakraborty + Anna Baranova (Maitra group)
+* Oct. 15, 2025 - Maxim Gelin + Zengkui Liu (Xiang Sun group)
+* Oct. 29, 2025 - Basile Curchod + Victor Freixas (Shaul Mukamel group)
+* Nov. 12, 2025 - TBD + Mohdd Shavezz (Aditya Panda group)
+* Dec.  3, 2025 - TBD
+* Dec. 17, 2025 - Thomas Niehaus + TBD
+* Jan. 14, 2026 - John Tully - Centenninal VISTA seminar
+* Jan. 28, 2026 - TBD
+* Feb. 11, 2026 - TBD
+* Feb. 25, 2026 - Laura M. P. González + TBD
+* Mar. 11, 2026 - TBD
+* Mar. 25, 2026 - TBD
+* Apr.  8, 2026 - TBD
+* Apr. 22, 2026 - TBD
+* May.  6, 2026 - TBD
+* May. 20, 2026 - TBD
+
 
 ## Current Executive Committee Members
 
 * **Agostini, Federica**   University Paris-Saclay, France
 * **Akimov, Alexey**       University at Buffalo, SUNY, USA
 * **Barbatti, Mario**      Aix-Marseille University, Frace
-* **Curchod, Basile**      Durham University, UK
+* **Fernandez-Alberti, Sebastian**  Univercidad Nacional de Quilmes, Argentina 
 * **Garashchuk, Sophya**   University of South Carolina, USA
 * **Jakowski, Jacek**      Oak Ridge National Laboratory, USA
-* **Rego, Luis**           Universidade Federal de Santa Catarina, Brazil
 * **Long, Run**            Beijing Normal University, China
+* **List, Nanna**          KTH Royal Institute of Technology, Sweden
 * **Sun, Xiang**           New York University Shanghai, China
 * **Tretiak, Sergei**      Los Alamos National Laboratory, USA
 * **Wang, Linjun**         Zhejiang University, China
@@ -82,6 +91,7 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 ## Former Executive Committee Members
 
 * **Blumberger, Jochen**   University College London, UK
+* **Curchod, Basile**      Durham University, UK
 * **Dupuis, Michel**       University at Buffalo, SUNY, USA
 * **Goldfield, Evelyn**    Wayne State University, USA
 * **Jain, Amber**          Indian Institute of Technology, Bombay, India
@@ -89,6 +99,7 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * **Kilin, Dmitri**        North Dakota State University, USA
 * **Levine, Ben**          Stony Brook University, SUNY, USA
 * **Prezhdo, Oleg**        University of Southern California, USA
+* **Rego, Luis**           Universidade Federal de Santa Catarina, Brazil
 * **Sanyal, Biplab**       Upsala University, Sweden
 * **Zhao, Jin**            University of Science and Technology of China, China
 * **Zhugayevych, Andriy**  Skolkovo Institute of Technology, Russia

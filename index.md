@@ -45,20 +45,19 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **September 17, 2025, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **October 1, 2025, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar93.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar94.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Sep. 17, 2025 - Daniel Nascimento + Dean Lahana (Martinez group, now Bannwarth group)
 * Oct.  1, 2025 - Ari Chakraborty + Anna Baranova (Maitra group)
 * Oct. 15, 2025 - Maxim Gelin + Zengkui Liu (Xiang Sun group)
 * Oct. 29, 2025 - Basile Curchod + Victor Freixas (Shaul Mukamel group)
 * Nov. 12, 2025 - TBD + Mohdd Shavezz (Aditya Panda group)
-* Dec.  3, 2025 - TBD
+* Dec.  3, 2025 - TBD + Spancer Dong (Oak Ridge NL, Tjerk Straatsma group)
 * Dec. 17, 2025 - Thomas Niehaus + Logan Blackham (Mandal group, Texas A and M)
 * Jan. 14, 2026 - John Tully - Centenninal VISTA seminar
 * Jan. 28, 2026 - Nadia Rega + TBD

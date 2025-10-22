@@ -45,15 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **October 15, 2025, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **October 29, 2025, 10:00 - 11:30 am EDT, Buffalo / 2:00 - 3:30 pm BST, London/ 3:00 - 4:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar95.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar96.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Oct. 15, 2025 - Maxim Gelin + Zengkui Liu (Xiang Sun group)
 * Oct. 29, 2025 - Basile Curchod + Victor Freixas (Shaul Mukamel group)
 * Nov. 12, 2025 - TBD + Mohdd Shavezz (Aditya Panda group)
 * Dec.  3, 2025 - TBD + Spancer Dong (Oak Ridge NL, Tjerk Straatsma group)

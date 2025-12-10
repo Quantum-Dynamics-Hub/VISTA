@@ -45,21 +45,20 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **November 26, 2025, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 pm GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 pm CST, Beijing **
+### **December 17, 2025, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 pm GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar98.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar99.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Dec.  3, 2025 - Hongli Guo + Spancer Dong (Oak Ridge NL, Tjerk Straatsma group)
 * Dec. 17, 2025 - Thomas Niehaus + Logan Blackham (Arkajit Mandal group, Texas A and M)
 * Jan. 14, 2026 - John Tully - Centenninal VISTA seminar
 * Jan. 28, 2026 - Nadia Rega + Arshath Manjalingal (Arkajit Mandal group, Texas A and M)
 * Feb. 11, 2026 - Ignacio Franco + Julian Stetzler (Sophya Garashchuk/Vitaly Rassolov groups; U of South Carolina)
 * Feb. 25, 2026 - Laura M. P. Gonzalez + Joao Pimentel (Vladimir Mandelshtam group)
-* Mar. 11, 2026 - TBD
+* Mar. 11, 2026 - Henrik Larsson + TBD
 * Mar. 25, 2026 - TBD
 * Apr.  8, 2026 - Lukas Muehler + TBD
 * Apr. 22, 2026 - Wei Fang + TBD

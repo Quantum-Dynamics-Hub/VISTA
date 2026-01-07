@@ -1,6 +1,6 @@
 ---
 title: "Seminar 99: Thomas Niehaus (University Claude Bernard Lyon, France) and Logan Blackham (Texas A and M University, USA)"
-date: December 17, 2025, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 pm GMT, London / 4:00 - 5:30 pm CET, Paris / 11:00 pm - 12:30 pm CST, Beijing
+date: December 17, 2025, 10:00 - 11:30 am EST / 3:00 - 4:30 pm GMT / 4:00 - 5:30 pm CET / 11:00 pm - 12:30 pm CST
 abstract: ../assets/abstracts/Flyer_seminar99.pdf
 presenter1: Thomas Niehaus, University Claude Bernard Lyon, France
 presentation1: ../assets/presentations/seminar99/ThomasNiehaus.pdf

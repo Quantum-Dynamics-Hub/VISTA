@@ -45,15 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **February 11, 2026, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 pm GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 pm CST, Beijing **
+### **February 25, 2026, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 pm GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 - 12:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar102.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar103.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Feb. 11, 2026 - Ignacio Franco + Julian Stetzler (Sophya Garashchuk/Vitaly Rassolov groups; U of South Carolina)
 * Feb. 25, 2026 - Laura M. P. Gonzalez + Joao Pimentel (Vladimir Mandelshtam group)
 * Mar. 11, 2026 - Henrik Larsson + Eirik Kjonstad
 * Mar. 25, 2026 - Cesare Tronci + TBD

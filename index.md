@@ -58,6 +58,7 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * Apr. 22, 2026 - Wei Fang + Mohammad Shakiba (Akimov group)
 * May.  6, 2026 - Chenyang Li + Mohdd Shavezz (Aditya Panda group)
 * May. 20, 2026 - Thomas la Cour Jansen + Chaoqun Zhang (Tianyu Zhu group, Yale University)
+* Jun.  3, 2026 - Anna Hehn + TBD
 
 
 ## Current Executive Committee Members

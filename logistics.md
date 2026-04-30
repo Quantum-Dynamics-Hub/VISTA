@@ -12,6 +12,9 @@ If you would like to give a presentation, please apply here:
 - To send a message to everyone on your list send it to: che-vista-list@listserv.buffalo.edu
 - Please spread the word and invite others to join the community and the mailing list
 
+## **Add the events Google calendar**
+- [Link](https://calendar.google.com/calendar/u/4?cid=Y19jMjhjZjc3YmQxZWY1MWFkMzAwNjQ2MDVkZmQ1YjY3OGMyZmMxMGJmYjZhZmUyOGViZjg0MzA0NzVhMmY5NDAyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) 
+
 ## **Logistics highlights:**
 - held bi-weekly, virtually via Zoom
 - discussion forum is available from [Slack](https://join.slack.com/t/vista-atk8254/shared_invite/zt-h4b1zwf6-fgmgjXWGv9b8G7zgU2v_bQ)

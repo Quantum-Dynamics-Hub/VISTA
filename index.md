@@ -45,7 +45,7 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **May 6, 2026, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **May 20, 2026, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
 <embed src="assets/abstracts/Flyer_seminar109.pdf" width="900" height="975"  type='application/pdf'>
 

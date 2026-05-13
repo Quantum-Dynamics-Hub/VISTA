@@ -47,13 +47,12 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ### **May 6, 2026, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar108.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar109.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* May.  6, 2026 - Chenyang Li + Mohdd Shavezz (Aditya Panda group)
 * May. 20, 2026 - Thomas la Cour Jansen + Chaoqun Zhang (Tianyu Zhu group, Yale University)
 * Jun.  3, 2026 - Anna Hehn + TBD
 

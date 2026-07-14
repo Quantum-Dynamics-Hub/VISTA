@@ -53,6 +53,28 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
+* Sept. 2, 2026 - TBD
+* Sept. 16, 2026 - TBD
+* Sept. 30, 2026 - TBD
+* Oct. 14, 2026 - TBD
+* Oct. 28, 2026 - TBD
+* Nov. 11, 2026 - TBD
+* Dec. 2, 2026 - TBD
+* Dec. 16, 2026 - TBD
+* Jan. 6, 2027 - TBD
+* Jan. 20, 2027 - TBD
+* Feb. 3, 2027 - TBD
+* Feb. 17, 2027 - TBD
+* Mar. 3, 2027 - TBD
+* Mar. 17, 2027 - TBD
+* Mar. 31, 2027 - TBD
+* Apr. 14, 2027 - TBD
+* Apr. 28, 2027 - TBD
+* May. 12, 2027 - TBD
+* May. 26, 2027 - TBD
+
+
+
 * Jun.  3, 2026 - Anna Hehn + Livia McCormack (Prof. Mathieu Francoeur's group)
 
 

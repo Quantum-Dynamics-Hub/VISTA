@@ -62,7 +62,7 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * Dec. 2, 2026 - Jin Wen + TBD
 * Dec. 16, 2026 - Roel Tempelaar + TBD
 * Jan. 6, 2027 - TBD
-* Jan. 20, 2027 - Sandra Luber (tentatively) + TBD
+* Jan. 20, 2027 - Sandra Luber + TBD
 * Feb. 3, 2027 - Spiridoula Matsika + TBD
 * Feb. 17, 2027 - TBD
 * Mar. 3, 2027 - TBD

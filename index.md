@@ -45,25 +45,25 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **June 3, 2026, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **Sept 2, 2026, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar110.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar111.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Sept. 2, 2026 - TBD
-* Sept. 16, 2026 - TBD
-* Sept. 30, 2026 - TBD
-* Oct. 14, 2026 - TBD
-* Oct. 28, 2026 - TBD
-* Nov. 11, 2026 - TBD
-* Dec. 2, 2026 - TBD
-* Dec. 16, 2026 - TBD
+* Sept. 2, 2026 - Amber Jain + Sachith Wickramasinghe (Arkajit Mandal's group)
+* Sept. 16, 2026 - TBD + Meseret Bezabih (BGSU | Center for Photo-chemical Sciences | Department of Chemistry)
+* Sept. 30, 2026 - Giovanni Granucci + TBD
+* Oct. 14, 2026 - Dmitry Shalashilin + Jiri Janos Host
+* Oct. 28, 2026 - Loic Joubert-Doriol + Juliana Abrantes
+* Nov. 11, 2026 - Patricia Vindel Zandbergen + TBD
+* Dec. 2, 2026 - Jin Wen + TBD
+* Dec. 16, 2026 - Roel Tempelaar + TBD
 * Jan. 6, 2027 - TBD
-* Jan. 20, 2027 - TBD
-* Feb. 3, 2027 - TBD
+* Jan. 20, 2027 - Sandra Luber (tentatively) + TBD
+* Feb. 3, 2027 - Spiridoula Matsika + TBD
 * Feb. 17, 2027 - TBD
 * Mar. 3, 2027 - TBD
 * Mar. 17, 2027 - TBD
@@ -71,11 +71,7 @@ All seminars are at **10 am - 11:30 am EDT/EST**
 * Apr. 14, 2027 - TBD
 * Apr. 28, 2027 - TBD
 * May. 12, 2027 - TBD
-* May. 26, 2027 - TBD
-
-
-
-* Jun.  3, 2026 - Anna Hehn + Livia McCormack (Prof. Mathieu Francoeur's group)
+* May. 26, 2027 - Josene Toldo + TBD
 
 
 ## Current Executive Committee Members

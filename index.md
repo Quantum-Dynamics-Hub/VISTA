@@ -54,19 +54,19 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 All seminars are at **10 am - 11:30 am EDT/EST**
 
 * Sept. 2, 2026 - Amber Jain + Sachith Wickramasinghe (Arkajit Mandal's group)
-* Sept. 16, 2026 - TBD + Meseret Bezabih (BGSU | Center for Photo-chemical Sciences | Department of Chemistry)
+* Sept. 16, 2026 - Linjun Wang + Meseret Bezabih (BGSU, Center for Photo-chemical Sciences, Department of Chemistry)
 * Sept. 30, 2026 - Giovanni Granucci + TBD
-* Oct. 14, 2026 - Dmitry Shalashilin + Jiri Janos Host
+* Oct. 14, 2026 - Dmitry Shalashilin + Jiri Janos
 * Oct. 28, 2026 - Loic Joubert-Doriol + Juliana Abrantes
 * Nov. 11, 2026 - Patricia Vindel Zandbergen + TBD
 * Dec. 2, 2026 - Jin Wen + TBD
 * Dec. 16, 2026 - Roel Tempelaar + TBD
-* Jan. 6, 2027 - TBD
+* Jan. 6, 2027 - Rishab Dutta (PNNL) + TBD
 * Jan. 20, 2027 - Sandra Luber + TBD
 * Feb. 3, 2027 - Spiridoula Matsika + TBD
 * Feb. 17, 2027 - TBD
-* Mar. 3, 2027 - TBD
-* Mar. 17, 2027 - TBD
+* Mar. 3, 2027 - Takashi Tsuchimochi + TBD
+* Mar. 17, 2027 - Qi Yu (Fudan U) + TBD
 * Mar. 31, 2027 - TBD
 * Apr. 14, 2027 - TBD
 * Apr. 28, 2027 - TBD

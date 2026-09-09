@@ -45,15 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Sept 2, 2026, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **Sept 16, 2026, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar111.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar112.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Sept. 2, 2026 - Amber Jain + Sachith Wickramasinghe (Arkajit Mandal's group)
 * Sept. 16, 2026 - Linjun Wang + Meseret Bezabih (BGSU, Center for Photo-chemical Sciences, Department of Chemistry)
 * Sept. 30, 2026 - Giovanni Granucci + TBD
 * Oct. 14, 2026 - Dmitry Shalashilin + Jiri Janos

@@ -45,25 +45,24 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Sept 16, 2026, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **Sept 30, 2026, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar112.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar113.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Sept. 16, 2026 - Linjun Wang + Meseret Bezabih (BGSU, Center for Photo-chemical Sciences, Department of Chemistry)
-* Sept. 30, 2026 - Giovanni Granucci + TBD
+* Sept. 30, 2026 - Giovanni Granucci + Miguel Recio-Poo
 * Oct. 14, 2026 - Dmitry Shalashilin + Jiri Janos
 * Oct. 28, 2026 - Loic Joubert-Doriol + Juliana Abrantes
-* Nov. 11, 2026 - Patricia Vindel Zandbergen + TBD
+* Nov. 11, 2026 - Patricia Vindel Zandbergen + Giacomo Botti
 * Dec. 2, 2026 - Jin Wen + TBD
 * Dec. 16, 2026 - Roel Tempelaar + TBD
 * Jan. 6, 2027 - Rishab Dutta (PNNL) + TBD
 * Jan. 20, 2027 - Sandra Luber + TBD
 * Feb. 3, 2027 - Spiridoula Matsika + TBD
-* Feb. 17, 2027 - TBD
+* Feb. 17, 2027 - Joe Subotnik + TBD
 * Mar. 3, 2027 - Takashi Tsuchimochi + TBD
 * Mar. 17, 2027 - Qi Yu (Fudan U) + TBD
 * Mar. 31, 2027 - TBD

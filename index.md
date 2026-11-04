@@ -45,15 +45,14 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Sept 30, 2026, 10:00 - 11:30 am EDT, Buffalo / 3:00 - 4:30 pm BST, London/ 4:00 - 5:30 pm CEST, Paris / 10:00 - 11:30 pm CST, Beijing **
+### **Nov 11, 2026, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 pm GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 pm - 00:30 am CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar115.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar116.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Oct. 28, 2026 - Loic Joubert-Doriol + Juliana Abrantes
 * Nov. 11, 2026 - Patricia Vindel Zandbergen + Giacomo Botti
 * Dec. 2, 2026 - Jin Wen + TBD
 * Dec. 16, 2026 - Roel Tempelaar + TBD

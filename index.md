@@ -45,27 +45,26 @@ The bi-weekly seminar series "Virtual International Seminar on Theory Advancemen
 
 ## Upcoming Seminars
 
-### **Nov 11, 2026, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 pm GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 pm - 00:30 am CST, Beijing **
+### **Dec. 2, 2026, 10:00 - 11:30 am EST, Buffalo / 3:00 - 4:30 pm GMT, London/ 4:00 - 5:30 pm CET, Paris / 11:00 pm - 00:30 am CST, Beijing **
 
-<embed src="assets/abstracts/Flyer_seminar116.pdf" width="900" height="975"  type='application/pdf'>
+<embed src="assets/abstracts/Flyer_seminar117.pdf" width="900" height="975"  type='application/pdf'>
 
 ### Calendar of the future Seminars (speakers are announced a week ahead of the seminar)
 
 All seminars are at **10 am - 11:30 am EDT/EST**
 
-* Nov. 11, 2026 - Patricia Vindel Zandbergen + Giacomo Botti
-* Dec. 2, 2026 - Jin Wen + TBD
+* Dec. 2, 2026 - Jin Wen + Jia-Xi Zeng
 * Dec. 16, 2026 - Roel Tempelaar + TBD
-* Jan. 6, 2027 - Rishab Dutta (PNNL) + TBD
-* Jan. 20, 2027 - Sandra Luber + TBD
-* Feb. 3, 2027 - Spiridoula Matsika + TBD
-* Feb. 17, 2027 - Joe Subotnik + TBD
-* Mar. 3, 2027 - Takashi Tsuchimochi + TBD
+* Jan. 6, 2027 - Rishab Dutta (PNNL) + Dil Limbu (Farnaz Shakib group)
+* Jan. 20, 2027 - Sandra Luber + Jesus Lucia Tamudo (Leticia Gonzalez group)
+* Feb. 3, 2027 - Spiridoula Matsika + Johannes Dietschreit (Leticia Gonzalez group)
+* Feb. 17, 2027 - Joe Subotnik + Daniela Mangano
+* Mar. 3, 2027 - Takashi Tsuchimochi + Rajanya Sarkar (Arkajit Mandal group)
 * Mar. 17, 2027 - Qi Yu (Fudan U) + TBD
-* Mar. 31, 2027 - TBD
+* Mar. 31, 2027 - Patricia Vindel Zandbergen (rescheduled)
 * Apr. 14, 2027 - TBD
 * Apr. 28, 2027 - TBD
-* May. 12, 2027 - TBD
+* May. 12, 2027 - Adam Kirrander
 * May. 26, 2027 - Josene Toldo + TBD
 
 
